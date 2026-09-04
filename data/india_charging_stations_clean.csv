@@ -1,0 +1,1180 @@
+id,name,city,state,country_code,latitude,longitude,ports,power_kw,power_class,is_fast_dc
+460636,Hotel Kantara Dine,Solur,Karnataka,IN,13.064574,77.257125,1.0,30.0,AC_HIGH_(22-49kW),False
+460478,Burger King,Udayapura,Karnataka,IN,12.960134,76.330239,1.0,120.0,DC_FAST_(50-149kW),True
+460205,Konnagar,Kolkata,West Bengal,IN,21.651444,87.6514,1.0,,UNKNOWN,False
+458918,Tata.ev Luxon Motors - Tata Power,Edappally,Kerala,IN,10.011485,76.311387,2.0,60.0,DC_FAST_(50-149kW),True
+458917,TML Sree Gokulam Motors - Tata Power,Edappally,Kerala,IN,10.039155,76.315559,1.0,30.0,AC_HIGH_(22-49kW),False
+458916,Tata.ev Gokulam Motors - Tata Power,Choornikkara,Kerala,IN,10.081303,76.339462,1.0,60.0,DC_FAST_(50-149kW),True
+458915,Taj Cochin Internation Airport Hotel - Tata Power,Nedumbassery,Kerala,IN,10.159995,76.390154,1.0,30.0,AC_HIGH_(22-49kW),False
+458914,SAJ Earth Resort - Tata Power,Nedumbassery,Kerala,IN,10.162224,76.384653,1.0,30.0,AC_HIGH_(22-49kW),False
+458913,Luxon Motors - Tata Power,Kariyad,Kerala,IN,10.162042,76.367356,1.0,30.0,AC_HIGH_(22-49kW),False
+458912,Sree Gokulam Motors - Tata Power,Angamaly,Kerala,IN,10.22106,76.376752,1.0,30.0,AC_HIGH_(22-49kW),False
+458911,Centro Mall Charging Station - Tata Power,Kodungallur,Kerala,IN,10.232489,76.19594,1.0,30.0,AC_HIGH_(22-49kW),False
+458910,IOCL Thiruvonam Fuels - Tata Power,Palakkad,Kerala,IN,10.769831,76.668097,2.0,30.0,AC_HIGH_(22-49kW),False
+458909,KVR Automotive - Tata Power,Koppam,Kerala,IN,10.782258,76.658245,1.0,30.0,AC_HIGH_(22-49kW),False
+458908,Gokulam Residency - Tata Power,Amballur,Kerala,IN,10.436187,76.265206,1.0,25.0,AC_HIGH_(22-49kW),False
+458907,Tata.ev Hyson Motors - Tata Power,Thrissur,Kerala,IN,10.496728,76.258361,2.0,60.0,DC_FAST_(50-149kW),True
+458906,PCK Centenary,Thrissur,Kerala,IN,10.52294,76.206248,1.0,30.0,AC_HIGH_(22-49kW),False
+458905,TML Hyson Motors - Tata Power,Thrissur,Kerala,IN,10.540423,76.189678,2.0,25.0,AC_HIGH_(22-49kW),False
+458904,Hotel Gokulam Sabari - Tata Power,Guruvayur,Kerala,IN,10.596357,76.042934,2.0,25.0,AC_HIGH_(22-49kW),False
+314018,Shirdi,Shirdi,Maharashtra,IN,19.757594,74.476347,1.0,30.0,AC_HIGH_(22-49kW),False
+313995,InFour Wheel Care And Tyres - Tata Power,Perinthalmanna,Kerala,IN,10.960238,76.234679,1.0,25.0,AC_HIGH_(22-49kW),False
+313994,TML KVR Automotive - Tata Power,Perinthalmanna,Kerala,IN,10.984503,76.187847,1.0,30.0,AC_HIGH_(22-49kW),False
+313993,IOCL Sigma Enterprises Charging Station - Tata Power,Valanchery,Kerala,IN,10.897914,76.06101,1.0,30.0,AC_HIGH_(22-49kW),False
+313992,AAK Mall,Tirur,Kerala,IN,10.918581,75.917798,1.0,30.0,AC_HIGH_(22-49kW),False
+313991,Tata.ev Store Malappuram,Malappuram,Kerala,IN,11.052515,76.07764,2.0,60.0,DC_FAST_(50-149kW),True
+313990,A M Tyres Malappuram - Tata Power,Malappuram,Kerala,IN,11.060403,76.080844,1.0,30.0,AC_HIGH_(22-49kW),False
+313989,Hotel Gokulam Relax Park,Manjeri,Kerala,IN,11.118906,76.118474,2.0,25.0,AC_HIGH_(22-49kW),False
+313988,One Stop Automotive Cahrging Station - Tata Power,Edavanna,Kerala,IN,11.204146,76.136734,2.0,60.0,DC_FAST_(50-149kW),True
+313980,Moto Town Auto Hub - Tata Power,Wandoor,Kerala,IN,11.22325,76.216915,1.0,30.0,AC_HIGH_(22-49kW),False
+313979,IOCL Aaditya Petroleum Naduvath Charging Station - Tata Power,Wandoor,Kerala,IN,11.211054,76.224685,1.0,30.0,AC_HIGH_(22-49kW),False
+313978,Calicut Airport Charging Station - Tata Power,Kondotty,Kerala,IN,11.140292,75.948314,2.0,60.0,DC_FAST_(50-149kW),True
+313955,TML Marina Motors - Tata Power,Kozhikode,Kerala,IN,11.216965,75.857951,2.0,25.0,AC_HIGH_(22-49kW),False
+313954,Rotana Motors Meenchanda - Tata Power,Meenchanda,Kerala,IN,11.213909,75.802632,1.0,30.0,AC_HIGH_(22-49kW),False
+313953,IOCL Lakshmi Sales & Service - Tata Power,Kozhikode,Kerala,IN,11.233627,75.803239,1.0,30.0,AC_HIGH_(22-49kW),False
+313952,Gokulam Galleria Mall - Tata Power,Kozhikode,Kerala,IN,11.258465,75.792906,5.0,25.0,AC_HIGH_(22-49kW),False
+313951,Hotel Hyson Heritage - Tata Power,Kozhikode,Kerala,IN,11.259214,75.779335,2.0,25.0,AC_HIGH_(22-49kW),False
+313950,Taj The Gateway Hotel - Tata Power,Kozhikode,Kerala,IN,11.25869,75.773979,2.0,30.0,AC_HIGH_(22-49kW),False
+313947,IOCL Engapuzha Fuel - Tata Power,Engapuzha,Kerala,IN,11.46505,75.970175,1.0,25.0,AC_HIGH_(22-49kW),False
+313946,IOCl Balaji Petroleum - Tata Power,Sulthan Bathery,Kerala,IN,11.660943,76.240023,1.0,30.0,AC_HIGH_(22-49kW),False
+313945,Hotel Saugandhika Charging Station - Tata Power,Meenangadi,Kerala,IN,11.659328,76.207185,2.0,60.0,DC_FAST_(50-149kW),True
+313944,TML Marina Motors Pvt. Ltd. Kalpetta - Tata Power,Kalpetta,Kerala,IN,11.637353,76.094685,1.0,30.0,AC_HIGH_(22-49kW),False
+313943,Taj Wayanad Resort and Spa- Tata Power,Padinjarathara,Kerala,IN,11.657633,75.960432,2.0,30.0,AC_HIGH_(22-49kW),False
+313942,KVR Dream Vehicles Thalassery - Tata Power,Thalassery,Kerala,IN,11.761734,75.509068,1.0,30.0,AC_HIGH_(22-49kW),False
+313941,IOCL - MK Petroleum - Tata Power,Thazhe Chovva,Kerala,IN,11.86015,75.414341,1.0,30.0,AC_HIGH_(22-49kW),False
+313940,KVR Dream Vehicles Service Centre - Tata Power,Iritty,Kerala,IN,11.990686,75.658022,1.0,30.0,AC_HIGH_(22-49kW),False
+313925,KVR Dream Vehicle - Tata Power,Nadal,Kerala,IN,11.832857,75.426442,2.0,25.0,AC_HIGH_(22-49kW),False
+313924,Tata.ev KVR Dreams Kannur - Tata Power,Kannur,Kerala,IN,11.86083,75.411868,2.0,30.0,AC_HIGH_(22-49kW),False
+313923,KVR Dream Vehicles Service Center - Tata Power,Payyanur,Kerala,IN,12.120003,75.217555,1.0,30.0,AC_HIGH_(22-49kW),False
+313922,V-Net Shopping Complex - Tata Power,Payyannur,Kerala,IN,12.175048,75.193433,1.0,30.0,AC_HIGH_(22-49kW),False
+313921,Taj Bekkal - Tata Power,Bekkal,Kerala,IN,12.423383,75.014755,2.0,7.4,AC_L1_(<7.5kW),False
+313920,TML KVR Dream Vehicles EVCS - Tata Power,Kasaragod,Kerala,IN,12.513454,75.027123,1.0,30.0,AC_HIGH_(22-49kW),False
+313919,IOCL Top Fuels Karanthakkad Charging Station - Tata Power,Kasaragod,Kerala,IN,12.509408,74.986111,1.0,30.0,AC_HIGH_(22-49kW),False
+313918,Eco Charge Hub - GO EC,Thiruvananthapuram,Kerala,IN,8.353209,77.05379,3.0,60.0,DC_FAST_(50-149kW),True
+313917,Rajco EVCS - GO EC,Neyyattinkara,Kerala,IN,8.394253,77.088729,4.0,30.0,AC_HIGH_(22-49kW),False
+313916,Appolo Dimora Hotel EVCS - GO EC,Thiruvananthapuram,Kerala,IN,8.488661,76.950752,1.0,30.0,AC_HIGH_(22-49kW),False
+313915,Lulu International Mall EVCS - GO EC,Thiruvananthapuram,Kerala,IN,8.515263,76.898158,11.0,60.0,DC_FAST_(50-149kW),True
+313914,Trivandrum UST Campus EVCS - GO EC,Thiruvananthapuram,Kerala,IN,8.539993,76.884425,6.0,7.4,AC_L1_(<7.5kW),False
+313913,Karthika Residency Hotel EVCS - GO EC,Karette,Kerala,IN,8.728846,76.898448,2.0,80.0,DC_FAST_(50-149kW),True
+313912,KKP Renewables EVCS - GO EC,Karette,Kerala,IN,8.734523,76.898016,1.0,30.0,AC_HIGH_(22-49kW),False
+313911,Aeron EVCS - GO EC,Attingal,Kerala,IN,8.686808,76.824022,2.0,30.0,AC_HIGH_(22-49kW),False
+313910,Zenith EVCS - GO EC,Attingal,Kerala,IN,8.733068,76.810647,1.0,30.0,AC_HIGH_(22-49kW),False
+313909,Orion Plaza EVCS - GO EC,Chadayamangalam,Kerala,IN,8.863427,76.871208,3.0,60.0,DC_FAST_(50-149kW),True
+313908,Power Up EVCS - GO EC,Varkala,Kerala,IN,8.749086,76.705819,2.0,25.0,AC_HIGH_(22-49kW),False
+313907,Green Planet EVCS - GO EC,Kottarakkara,Kerala,IN,8.982143,76.80933,2.0,30.0,AC_HIGH_(22-49kW),False
+313906,RK EVCS - GO EC,Kundara,Kerala,IN,8.948247,76.646247,2.0,30.0,AC_HIGH_(22-49kW),False
+313905,SK EVCS - GO EC,Pathanapuram,Kerala,IN,9.070992,76.856311,2.0,25.0,AC_HIGH_(22-49kW),False
+313904,Erathu Motors EVCS - GO EC,Puthoor,Kerala,IN,9.051367,76.703247,2.0,30.0,AC_HIGH_(22-49kW),False
+313903,Vrindavan EVCS - GO EC,Inchakkad,Kerala,IN,9.045128,76.7736,4.0,60.0,DC_FAST_(50-149kW),True
+313902,JB Power EVCS - GO EC,Adoor,Kerala,IN,9.116847,76.745112,3.0,60.0,DC_FAST_(50-149kW),True
+313901,Peninsula Park Residency EVCS - GO EC,Adoor,Kerala,IN,9.145306,76.765858,1.0,30.0,AC_HIGH_(22-49kW),False
+313900,Green Earth - GO EC,Adoor,Kerala,IN,9.153564,76.735544,3.0,60.0,DC_FAST_(50-149kW),True
+313899,Sparkzone EVCS - GO EC,Kayamkulam,Kerala,IN,9.145795,76.459363,2.0,25.0,AC_HIGH_(22-49kW),False
+313898,Zufo EVCS,Karunagappalli,Kerala,IN,9.132307,76.513858,1.0,25.0,AC_HIGH_(22-49kW),False
+313897,Cartist - GO EC,Kayamkulam,Kerala,IN,9.18474,76.490297,4.0,60.0,DC_FAST_(50-149kW),True
+313896,V Volte EVCS - GO EC,Haripad,Kerala,IN,9.289001,76.456536,2.0,25.0,AC_HIGH_(22-49kW),False
+313895,Anjaly EVCS - GO EC,Omallor,Kerala,IN,9.246935,76.757308,2.0,30.0,AC_HIGH_(22-49kW),False
+313894,Evergreen Continental EVCS - GO EC,Pathanamthitta,Kerala,IN,9.263777,76.785435,1.0,30.0,AC_HIGH_(22-49kW),False
+313893,Quik Energy EVCS - GO EC,Chengannur,Kerala,IN,9.311533,76.622721,4.0,60.0,DC_FAST_(50-149kW),True
+313892,Amrutham Auto Care EVCS - GO EC,Chengannur,Kerala,IN,9.342145,76.598488,2.0,30.0,AC_HIGH_(22-49kW),False
+313891,Changanassery Immaculate Mary EVCS,Changanassery,Kerala,IN,9.45986,76.555184,2.0,25.0,AC_HIGH_(22-49kW),False
+313890,Calvarymount Jerry Plaza,Alliyar,Kerala,IN,9.806942,77.04794,1.0,30.0,AC_HIGH_(22-49kW),False
+313889,Westgate Inn EVCS - GO EC,Kattappana,Kerala,IN,9.747617,77.105418,1.0,25.0,AC_HIGH_(22-49kW),False
+313888,GO EC Charging Station,Idukki,Kerala,IN,9.665399,77.160847,2.0,30.0,AC_HIGH_(22-49kW),False
+313887,Sora EVCS - GO EC,Kumali,Kerala,IN,9.614446,77.15391,2.0,30.0,AC_HIGH_(22-49kW),False
+313886,Open Kitchen EVCS - GO EC,Kuttikkanam,Kerala,IN,9.580204,76.970612,3.0,60.0,DC_FAST_(50-149kW),True
+313885,Nandanam EVCS - GO EC,Kodungoor,Kerala,IN,9.567075,76.706094,1.0,30.0,AC_HIGH_(22-49kW),False
+313884,Clay Art Cafe - GO EC,Ponkunnam,Kerala,IN,9.566379,76.741608,2.0,25.0,AC_HIGH_(22-49kW),False
+313883,GO Green EVCS - GO EC,Anthikkad,Kerala,IN,9.754,76.701279,1.0,30.0,AC_HIGH_(22-49kW),False
+313882,Nila's Magestic Arcade,Kidangoor,Kerala,IN,9.683248,76.609754,1.0,30.0,AC_HIGH_(22-49kW),False
+313881,Ettumanur Skylight EVCS - GO EC,Ettumanoor,Kerala,IN,9.668172,76.575379,3.0,60.0,DC_FAST_(50-149kW),True
+313880,Chaithanya Hospital EVCS - GO EC,Kuravilangad,Kerala,IN,9.761924,76.564723,2.0,25.0,AC_HIGH_(22-49kW),False
+313879,Manjoor Beeza Clubhouse EVCS - GO EC,Manjoor,Kerala,IN,9.727579,76.520388,1.0,30.0,AC_HIGH_(22-49kW),False
+313878,Kalladanthiyil EVCS - GO EC,Neendoor,Kerala,IN,9.683337,76.505594,2.0,30.0,AC_HIGH_(22-49kW),False
+313877,The Grand Ambassador EVCS,Kottayam,Kerala,IN,9.589399,76.526331,1.0,30.0,AC_HIGH_(22-49kW),False
+313876,Hotel Athira Residency EVCS - GO EC,Kottayam,Kerala,IN,9.578259,76.519471,2.0,80.0,DC_FAST_(50-149kW),True
+313875,Cassia Regency EVCS - GO EC,Alappuzha,Kerala,IN,9.49017,76.320737,1.0,30.0,AC_HIGH_(22-49kW),False
+313874,Neo Charge EVCS - GO EC,Alappuzha,Kerala,IN,9.559497,76.328214,1.0,30.0,AC_HIGH_(22-49kW),False
+313873,Jason Orchard Inn EVCS - GO EC,Alappuzha,Kerala,IN,9.562575,76.327584,1.0,30.0,AC_HIGH_(22-49kW),False
+313872,Huts Restaurant EVCS - GO EC,Cherthala,Kerala,IN,9.683891,76.333582,3.0,60.0,DC_FAST_(50-149kW),True
+313871,Vijaya EVCS - GO EC,Kanjiramattom,Kerala,IN,9.85184,76.389388,1.0,30.0,AC_HIGH_(22-49kW),False
+313870,MPA Tyres EVCS - GO EC,Thrippunithura,Kerala,IN,9.96261,76.358001,1.0,30.0,AC_HIGH_(22-49kW),False
+313869,Central Talkies EVCS - GO EC,Thrippunithura,Kerala,IN,9.948953,76.347711,5.0,60.0,DC_FAST_(50-149kW),True
+313868,Tribute Royale EVCS - GO EC,Maradu,Kerala,IN,9.947758,76.318546,2.0,60.0,DC_FAST_(50-149kW),True
+313867,Prithvi EVCS - GO EC,Kadavanthra,Kerala,IN,9.947452,76.303416,3.0,60.0,DC_FAST_(50-149kW),True
+313866,EC City Centre EVCS - GO EC,Ernakulam,Kerala,IN,9.965194,76.296623,2.0,25.0,AC_HIGH_(22-49kW),False
+313865,Monsoon Empress Hotel EVCS,Palarivattom,Kerala,IN,9.99596,76.314102,2.0,60.0,DC_FAST_(50-149kW),True
+313864,Max EVCS - GO EC,Palarivattom,Kerala,IN,9.998499,76.313861,2.0,60.0,DC_FAST_(50-149kW),True
+313863,Park Residency EVCS - GO EC,Kakkanad,Kerala,IN,10.014659,76.342401,2.0,25.0,AC_HIGH_(22-49kW),False
+313862,EVGO Hub - GO EC,Thrikkakkara,Kerala,IN,10.035674,76.336448,1.0,30.0,AC_HIGH_(22-49kW),False
+313861,Daffodils EVCS - GO EC,Edapally,Kerala,IN,10.032115,76.32296,7.0,30.0,AC_HIGH_(22-49kW),False
+313860,Oberon Mall EVCS - GO EC,Edapally,Kerala,IN,10.014373,76.312533,2.0,60.0,DC_FAST_(50-149kW),True
+313859,Lulu International Shopping Mall EVCS - GO EC,Edapally,Kerala,IN,10.025853,76.30848,4.0,60.0,DC_FAST_(50-149kW),True
+313858,EcoPlug EVCS - GO EC,Neriyamangalam,Kerala,IN,10.056579,76.776647,1.0,3.3,AC_L1_(<7.5kW),False
+313857,Future Clock EVCS - GO EC,Perumbavoor,Kerala,IN,10.089873,76.49767,5.0,80.0,DC_FAST_(50-149kW),True
+313856,Prestige EV Super Charging Station - GO EC,Perumbavoor,Kerala,IN,10.1166,76.445699,3.0,60.0,DC_FAST_(50-149kW),True
+313855,Innate Convention Centre,Aluva,Kerala,IN,10.134847,76.354549,1.0,30.0,AC_HIGH_(22-49kW),False
+313854,Athani Energize EVCS,Athani,Kerala,IN,10.141444,76.352934,2.0,80.0,DC_FAST_(50-149kW),True
+313853,Hotel Airlink Castle - GO EC,Athani,Kerala,IN,10.155053,76.354715,1.0,24.0,AC_HIGH_(22-49kW),False
+313852,V-Green EVCS - GO EC,Angamaly,Kerala,IN,10.20178,76.409662,2.0,80.0,DC_FAST_(50-149kW),True
+313851,Gopika EV Charging Station - GO EC,Varappuzha,Kerala,IN,10.087291,76.267891,1.0,25.0,AC_HIGH_(22-49kW),False
+313850,Power Zone EV Charging Station - GO EC,North Paravur,Kerala,IN,10.149673,76.217564,1.0,30.0,AC_HIGH_(22-49kW),False
+313849,Koratty Chennai Anandabhavan EVCS - GO EC,Koratty,Kerala,IN,10.277245,76.344528,2.0,60.0,DC_FAST_(50-149kW),True
+313848,Parekkat's EVCS - GO EC,Mala,Kerala,IN,10.240669,76.272529,1.0,25.0,AC_HIGH_(22-49kW),False
+313847,Kodungallur SVS - GO EC,Kodungallur,Kerala,IN,10.211292,76.198989,2.0,25.0,AC_HIGH_(22-49kW),False
+313846,FUZO EV Super Charging Station,Kodungallur,Kerala,IN,10.378135,76.122545,3.0,60.0,DC_FAST_(50-149kW),True
+313843,Sree Rama EVCS - GO EC,Thrissur,Kerala,IN,10.435595,76.265875,4.0,60.0,DC_FAST_(50-149kW),True
+313841,Daiz and Co. EVCS - GO EC,Thrissur,Kerala,IN,10.52615,76.187955,1.0,30.0,AC_HIGH_(22-49kW),False
+313839,Shobha City Mall EVCS - GO EC,Thrissur,Kerala,IN,10.548947,76.183041,4.0,60.0,DC_FAST_(50-149kW),True
+313838,Amala Smart EVCS - GO EC,Peramangalam,Kerala,IN,10.564967,76.165984,3.0,80.0,DC_FAST_(50-149kW),True
+313836,Sree Sankara EVCS - GO EC,Vadanappalli,Kerala,IN,10.487291,76.070836,2.0,60.0,DC_FAST_(50-149kW),True
+313835,Green Drive EV Super Charging Station,Vadanappilly,Kerala,IN,10.494542,76.065847,2.0,60.0,DC_FAST_(50-149kW),True
+313819,Sree Krishna Hotel - GO EC,Guruvayoor,Kerala,IN,10.598448,76.036368,1.0,3.3,AC_L1_(<7.5kW),False
+313818,Palakkad Ahalia Women and Childern Hospital EVCS - GO EC,Elappully,Kerala,IN,10.797309,76.827541,2.0,7.4,AC_L1_(<7.5kW),False
+313817,Palakkad Ahalia Eye Hospital EVCS - GO EC,Elappully,Kerala,IN,10.793487,76.82653,2.0,7.4,AC_L1_(<7.5kW),False
+313816,Palakkad Ahalia Food Point EVCS - GO EC,Elappully,Kerala,IN,10.792032,76.828347,2.0,7.4,AC_L1_(<7.5kW),False
+313815,Ahalia Walayar - GO EC,Walayar,Kerala,IN,10.826593,76.826053,3.0,60.0,DC_FAST_(50-149kW),True
+313814,Le Sky Dine EVCS - GO EC,Palakkad,Kerala,IN,10.773957,76.698197,3.0,60.0,DC_FAST_(50-149kW),True
+313813,Doctor Green EVCS - GO EC,Alathur,Kerala,IN,10.646166,76.551402,3.0,60.0,DC_FAST_(50-149kW),True
+313812,SJ Eco Power Charge - GO EC,Alathur,Kerala,IN,10.638304,76.52393,2.0,7.4,AC_L1_(<7.5kW),False
+313811,Jeevz - GO EC,Vadakkencherry,Kerala,IN,10.593239,76.482535,1.0,25.0,AC_HIGH_(22-49kW),False
+313810,Sanjeevani Green - GO EC,Thiruvilwamala,Kerala,IN,10.710022,76.428793,2.0,25.0,AC_HIGH_(22-49kW),False
+313809,Green Valley - GO EC,Thirissur,Kerala,IN,10.692716,76.268584,4.0,60.0,DC_FAST_(50-149kW),True
+313808,AR Dine - GO EC,Cheruthuruthi,Kerala,IN,10.750382,76.274757,1.0,25.0,AC_HIGH_(22-49kW),False
+313807,EV Super Charging Station,Pattambi,Kerala,IN,10.804795,76.208157,1.0,30.0,AC_HIGH_(22-49kW),False
+313806,Pattambi Power Bank - GO EC,Pattambi,Kerala,IN,10.811069,76.186444,4.0,30.0,AC_HIGH_(22-49kW),False
+313805,New Kerala Hotel EVCS - GO EC,Nhangattiri,Kerala,IN,10.784881,76.170676,1.0,30.0,AC_HIGH_(22-49kW),False
+313804,Oasis EV Super Charging Station,Mannarkkad,Kerala,IN,10.933557,76.527217,3.0,60.0,DC_FAST_(50-149kW),True
+313789,Shalimar EVCS - GO EC,Perinthalmanna,Kerala,IN,10.965297,76.283898,2.0,25.0,AC_HIGH_(22-49kW),False
+313788,Green Zone EVCS - GO EC,Valanchery,Kerala,IN,10.873413,76.062458,3.0,60.0,DC_FAST_(50-149kW),True
+313787,Unicorn Power EVCS - GO EC,Edappal,Kerala,IN,10.809947,76.008734,1.0,30.0,AC_HIGH_(22-49kW),False
+313786,CG Cafe EVCS - GO EC,Pandikkad,Kerala,IN,11.139596,76.236113,1.0,60.0,DC_FAST_(50-149kW),True
+313785,Karulai Malayora Express EVCS - GO EC,Karulai,Kerala,IN,11.288049,76.297982,1.0,30.0,AC_HIGH_(22-49kW),False
+313784,Jam Joom Super Market - GO EC,Nilambur,Kerala,IN,11.286681,76.239264,1.0,25.0,AC_HIGH_(22-49kW),False
+313783,ABS Motors - GO EC,Nilambur,Kerala,IN,11.253647,76.201901,1.0,30.0,AC_HIGH_(22-49kW),False
+313782,VP Mall EVCS - GO EC,Manjeri,Kerala,IN,11.128916,76.115395,3.0,60.0,DC_FAST_(50-149kW),True
+313781,Jam Joom EV Charging Station - GO EC,Malappuram,Kerala,IN,11.043181,76.084302,1.0,25.0,AC_HIGH_(22-49kW),False
+313780,HIQ Highway Market - GO EC,Venniyour,Kerala,IN,11.021175,75.948126,1.0,30.0,AC_HIGH_(22-49kW),False
+313779,Chargify EV Super Charging Station,Malappuram,Kerala,IN,11.078417,75.902764,1.0,30.0,AC_HIGH_(22-49kW),False
+313778,Reliance Fresh EVCS - GO EC,Kozhikode,Kerala,IN,11.234737,75.846707,2.0,60.0,DC_FAST_(50-149kW),True
+313777,Top Dines Hotel - GO EC,Muthanga,Kerala,IN,11.670802,76.36102,1.0,30.0,AC_HIGH_(22-49kW),False
+313776,Cafe Manoila - GO EC,Kalpetta,Kerala,IN,11.597777,76.080138,1.0,25.0,AC_HIGH_(22-49kW),False
+313775,CGH Wayanad Wild EV Charging Station - GO EC,Lakkidi,Kerala,IN,11.518344,76.021256,1.0,30.0,AC_HIGH_(22-49kW),False
+313774,Mall of Mukkom EVCS - GO EC,Mukkom,Kerala,IN,11.319727,75.995517,2.0,60.0,DC_FAST_(50-149kW),True
+313773,HOTAG EV Charging Station - GO EC,Thamarassery,Kerala,IN,11.404693,75.929568,1.0,25.0,AC_HIGH_(22-49kW),False
+313763,Green Amp EVCS - GO EC,Kozhikode,Kerala,IN,11.258801,75.808904,4.0,30.0,AC_HIGH_(22-49kW),False
+313762,Calicut Malabar Gold - GO EC,Kozhikode,Kerala,IN,11.257862,75.780231,4.0,30.0,AC_HIGH_(22-49kW),False
+313761,Mandrin Sky - GO EC,Kannur,Kerala,IN,11.92756,75.500473,1.0,7.0,AC_L1_(<7.5kW),False
+313760,JSR EVCS - GO EC,Mambaram,Kerala,IN,11.825802,75.508957,1.0,30.0,AC_HIGH_(22-49kW),False
+313759,Kannur H&H,Melechowa,Kerala,IN,11.871664,75.395986,1.0,30.0,AC_HIGH_(22-49kW),False
+313758,G Mall - GO EC,Kannur,Kerala,IN,11.880201,75.374665,2.0,60.0,DC_FAST_(50-149kW),True
+313757,Exit 17 - GO EC,Payyannur,Kerala,IN,12.088638,75.252646,2.0,30.0,AC_HIGH_(22-49kW),False
+313756,Periya A Star - GO EC,Hosdurg,Kerala,IN,12.405805,75.096298,1.0,30.0,AC_HIGH_(22-49kW),False
+313755,Roshi EVCS (EVOK) - ChargeMOD,Kasaragod,Kerala,IN,12.505974,74.986781,1.0,30.0,AC_HIGH_(22-49kW),False
+313754,Kanhangad KSEB EVCS - ChangeMOD,Kanhangad,Kerala,IN,12.342505,75.112664,7.0,30.0,AC_HIGH_(22-49kW),False
+313753,Ammas Fast - ChargeMOD,Cheruvathur,Kerala,IN,12.2272,75.15912,3.0,60.0,DC_FAST_(50-149kW),True
+313752,Mathil Service Co-Operative Bank EVCS - ChargeMOD,Mathil,Kerala,IN,12.17697,75.246756,3.0,30.0,AC_HIGH_(22-49kW),False
+313751,EQ Point EVCS - ChargeMOD,Payyannur,Kerala,IN,12.207766,75.279452,2.0,25.0,AC_HIGH_(22-49kW),False
+313750,PCR Bank EVCS - ChargeMOD,Bakkalam,Kerala,IN,11.997449,75.370908,2.0,30.0,AC_HIGH_(22-49kW),False
+313749,Manjapalam KSEB EVCS - ChargeMOD,Kannur,Kerala,IN,11.878368,75.359526,6.0,30.0,AC_HIGH_(22-49kW),False
+313748,Eastend Hotel and Resorts - ChargeMOD,Munnar,Kerala,IN,10.087379,77.0617,3.0,30.0,AC_HIGH_(22-49kW),False
+313747,Sky Penta EVCS - ChargeMOD,Iritty,Kerala,IN,11.985562,75.676182,1.0,30.0,AC_HIGH_(22-49kW),False
+313746,Reboost EVCS - ChargeMOD,"Panoor, Kannur",Kerala,IN,11.754867,75.578065,1.0,30.0,AC_HIGH_(22-49kW),False
+313745,Mindful EVCS - ChargeMOD,Payyoli,Kerala,IN,11.520445,75.617988,1.0,60.0,DC_FAST_(50-149kW),True
+313744,EVOK Charger - ChargeMOD,Kuttiyady,Kerala,IN,11.648901,75.755936,1.0,30.0,AC_HIGH_(22-49kW),False
+313743,Banasura Sagar KSEB EVCS - ChargeMOD,Padinjarathara,Kerala,IN,11.672924,75.957306,6.0,30.0,AC_HIGH_(22-49kW),False
+313742,Empire Restaurant - ChargeMOD,Tharuvana,Kerala,IN,11.736405,75.986744,2.0,60.0,DC_FAST_(50-149kW),True
+313741,Hotel Wayanad Square - ChargeMOD,Mananthavady,Kerala,IN,11.796978,76.006601,2.0,60.0,DC_FAST_(50-149kW),True
+313740,Adhithya (EVOK) - ChargeMOD,Sulthan Bathery,Kerala,IN,11.662086,76.264922,4.0,60.0,DC_FAST_(50-149kW),True
+313739,Meenangadi EVCS - ChargeMOD,Meenangadi,Kerala,IN,11.654046,76.153585,2.0,60.0,DC_FAST_(50-149kW),True
+313738,Konfudha Resort - ChargeMOD,Kalpetta,Kerala,IN,11.591455,76.07091,4.0,30.0,AC_HIGH_(22-49kW),False
+313737,Vythiri KSEB EVCS - ChargeMOD,Vythiri,Kerala,IN,11.545754,76.039372,6.0,30.0,AC_HIGH_(22-49kW),False
+313736,Thamarassery KESEB EVCS - ChargeMOD,Thamarassery,Kerala,IN,11.444087,75.955877,6.0,30.0,AC_HIGH_(22-49kW),False
+313735,Locus EVCS - ChargeMOD,Koduvally,Kerala,IN,11.339684,75.898716,6.0,120.0,DC_FAST_(50-149kW),True
+313734,Yadav EV Charging Station - ChargeMOD,Kunnamangalam,Kerala,IN,11.311692,75.882593,2.0,60.0,DC_FAST_(50-149kW),True
+313733,Kuttoth Enterprises EVCS - ChargeMOD,Kozhikode,Kerala,IN,11.280674,75.824632,1.0,30.0,AC_HIGH_(22-49kW),False
+313732,RG Nallanna EVCS (EVOK) - ChargeMOD,Kozhikode,Kerala,IN,11.280815,75.82435,1.0,30.0,AC_HIGH_(22-49kW),False
+313731,Solar Sparks EVCS - ChargeMOD,Koyilandi,Kerala,IN,11.427675,75.702996,1.0,30.0,AC_HIGH_(22-49kW),False
+313729,Hotel Arcore,Mysuru,Karnataka,IN,12.352687,76.629203,1.0,60.0,DC_FAST_(50-149kW),True
+313728,Manipal Hospital Mysore,Mysuru,Karnataka,IN,12.350146,76.660199,1.0,60.0,DC_FAST_(50-149kW),True
+313727,Pavangad KSEB EVCS - ChargeMOD,Pavangad,Kerala,IN,11.312412,75.758591,6.0,30.0,AC_HIGH_(22-49kW),False
+313726,Gandhi Road KSEB EVCS - ChargeMOD,Kozhikode,Kerala,IN,11.262784,75.768241,1.0,30.0,AC_HIGH_(22-49kW),False
+313725,Mountainpass Residency - ChargeMOD,Vazhikadavu,Kerala,IN,11.386628,76.354722,1.0,30.0,AC_HIGH_(22-49kW),False
+313724,Trends Edavannappara EVCS - ChargeMOD,Edavannappara,Kerala,IN,11.245323,75.977492,1.0,30.0,AC_HIGH_(22-49kW),False
+313723,Indus Motors - ChargeMOD,Feroke,Kerala,IN,11.180744,75.851199,1.0,30.0,AC_HIGH_(22-49kW),False
+313722,Kay Pees Electricals (EVOK) - ChargeMOD,Pulikkal,Kerala,IN,11.168868,75.926769,1.0,30.0,AC_HIGH_(22-49kW),False
+313721,RG Nallanna EVCS (EVOK) - ChargeMOD,Aikkarapadi,Kerala,IN,11.17328,75.902152,1.0,30.0,AC_HIGH_(22-49kW),False
+313720,NOS2 Varalakshmi Motors EVCS - ChargeMOD,Pingottormad,Kerala,IN,11.144919,75.89617,1.0,30.0,AC_HIGH_(22-49kW),False
+313719,Tirur KSEB EVCS - ChargeMOD,Tirur,Kerala,IN,10.916247,75.918287,5.0,30.0,AC_HIGH_(22-49kW),False
+313718,Relax Point Restaurant,Karippol,Kerala,IN,10.92282,76.032918,2.0,30.0,AC_HIGH_(22-49kW),False
+313717,Thirunilath ECVS Charging Station - ChargeMOD,Kottakkal,Kerala,IN,11.001727,75.980449,2.0,60.0,DC_FAST_(50-149kW),True
+313716,Malappuram KSEB EVCS - ChargeMOD,Munduparamba,Kerala,IN,11.054225,76.092143,6.0,30.0,AC_HIGH_(22-49kW),False
+313715,Krishna Enterprises - ChargeMOD,Manjeri,Kerala,IN,11.123033,76.115868,1.0,30.0,AC_HIGH_(22-49kW),False
+313714,Golden Baked EVCS - ChargeMOD,Manjeri,Kerala,IN,11.123411,76.124185,1.0,30.0,AC_HIGH_(22-49kW),False
+313713,EcoCharge EVCS - ChargeMOD,Pandikkad,Kerala,IN,11.0964,76.210707,2.0,30.0,AC_HIGH_(22-49kW),False
+313712,MKM Melattur (EVOK) - ChargeMOD,Melattur,Kerala,IN,11.056208,76.278512,2.0,30.0,AC_HIGH_(22-49kW),False
+313711,Green Drive EVCS - ChargeMOD,Vengoor,Kerala,IN,11.034502,76.261887,1.0,30.0,AC_HIGH_(22-49kW),False
+313710,Hotel Mughal Park - ChargeMOD,Perinthalmanna,Kerala,IN,10.977194,76.221651,2.0,60.0,DC_FAST_(50-149kW),True
+313709,Avenue Plaza - ChargeMOD,Mannarkkad,Kerala,IN,10.988865,76.436689,2.0,60.0,DC_FAST_(50-149kW),True
+313708,Velanthavalam,Vellamthavalam,Kerala,IN,10.809363,76.846322,4.0,30.0,AC_HIGH_(22-49kW),False
+313707,Flash Charge EVCS - ChargeMOD,Kanjikkode,Kerala,IN,10.80228,76.785203,2.0,30.0,AC_HIGH_(22-49kW),False
+313706,Electrica EVCS - ChargeMOD,Palakkad,Kerala,IN,10.785355,76.603956,2.0,30.0,AC_HIGH_(22-49kW),False
+313705,Sihla Energy - ChargeMOD,Mundur,Kerala,IN,10.839492,76.58,1.0,30.0,AC_HIGH_(22-49kW),False
+313704,Lakshmi KRS EVCS - ChargeMOD,Sreekrishnapuram,Kerala,IN,10.89808,76.395296,1.0,30.0,AC_HIGH_(22-49kW),False
+313703,Evee Buddy - ChargeMOD,Lakkidi,Kerala,IN,10.778142,76.43743,2.0,60.0,DC_FAST_(50-149kW),True
+313702,Kulappully KSEB EVCS - ChargeMOD,Kulappully,Kerala,IN,10.779746,76.285281,9.0,30.0,AC_HIGH_(22-49kW),False
+313701,Syndicate Mall and Cinemas,Koppam,Kerala,IN,10.878266,76.187607,1.0,30.0,AC_HIGH_(22-49kW),False
+313700,Medi Mall EVCS - ChargeMOD,Pattambi,Kerala,IN,10.801586,76.178408,2.0,60.0,DC_FAST_(50-149kW),True
+313699,Koottanad KSEB EVCS - ChargeMOD,Kootanad,Kerala,IN,10.758293,76.130366,1.0,60.0,DC_FAST_(50-149kW),True
+313698,Sihla Energy EVCS - ChargeMOD,Changaramkulam,Kerala,IN,10.734552,76.048647,2.0,60.0,DC_FAST_(50-149kW),True
+313697,Kadharkkante Chayakkada - ChargeMOD,Changaramkulam,Kerala,IN,10.732606,76.03743,1.0,30.0,AC_HIGH_(22-49kW),False
+313696,Maranchery Bank EVCS - ChargeMOD,Maranchery,Kerala,IN,10.733824,75.974813,2.0,30.0,AC_HIGH_(22-49kW),False
+313695,Sihla Energy CV Junction,Ponnanu,Kerala,IN,10.784746,75.947152,1.0,30.0,AC_HIGH_(22-49kW),False
+313694,Ponnani KSEB EVCS - ChargeMOD,Ponnani,Kerala,IN,10.772703,75.947152,6.0,30.0,AC_HIGH_(22-49kW),False
+313693,Flash Charge EVCS - ChargeMOD,Erumappetti,Kerala,IN,10.681341,76.16967,2.0,30.0,AC_HIGH_(22-49kW),False
+313692,SR Power Hub - ChargeMOD,Wadakkanchery,Kerala,IN,10.644411,76.236652,4.0,60.0,DC_FAST_(50-149kW),True
+313690,Executive EVCS - ChargeMOD,Kechery,Kerala,IN,10.616627,76.125784,3.0,60.0,DC_FAST_(50-149kW),True
+313688,Core Multicusine Restaurant - ChargeMOD,Killannur,Kerala,IN,10.605824,76.211788,1.0,30.0,AC_HIGH_(22-49kW),False
+313683,Plug and Share Charge EVCS - ChargeMOD,Thrissur,Kerala,IN,10.540562,76.215687,2.0,30.0,AC_HIGH_(22-49kW),False
+313682,Vydyuthi Bhavan KSEB EVCS - ChargeMOD,Thrissur,Kerala,IN,10.527795,76.205344,6.0,30.0,AC_HIGH_(22-49kW),False
+313681,V8 Car Spa (EVOK) - ChargeMOD,Thrissur,Kerala,IN,10.521332,76.230757,2.0,30.0,AC_HIGH_(22-49kW),False
+313679,Guardian EV Charging Station by Imminent Future - ChargeMOD,Thrissur,Kerala,IN,10.522036,76.227569,1.0,30.0,AC_HIGH_(22-49kW),False
+313678,Anchorage AC - ChargeMOD,Mundupalam,Kerala,IN,10.511503,76.221124,1.0,30.0,AC_HIGH_(22-49kW),False
+313677,Flash Hub EVCS - ChargeMOD,Thrissur,Kerala,IN,10.504452,76.225341,4.0,30.0,AC_HIGH_(22-49kW),False
+313676,Hotel Bhavan EVCS (EVOK) - ChargeMOD,Engandiyoor,Kerala,IN,10.497689,76.064642,1.0,30.0,AC_HIGH_(22-49kW),False
+313675,Surya Hotel (EVOK) - ChargeMOD,Chazhoor,Kerala,IN,10.431569,76.14256,2.0,30.0,AC_HIGH_(22-49kW),False
+313673,Valappad KSEB EVCS - ChargeMOD,Valappad,Kerala,IN,10.401732,76.119335,6.0,30.0,AC_HIGH_(22-49kW),False
+313672,Nattika FIRKA Service Co-Operative Bank - ChargeMOD,Nattika,Kerala,IN,10.402438,76.112633,2.0,60.0,DC_FAST_(50-149kW),True
+313671,Sihla Energy EVCS - ChargeMOD,Karuvannur,Kerala,IN,10.408947,76.214011,2.0,60.0,DC_FAST_(50-149kW),True
+313670,Irinjalakkuda KSEB EVCS - ChargeMOD,Irinjalakkuda,Kerala,IN,10.331423,76.215261,1.0,30.0,AC_HIGH_(22-49kW),False
+313669,Changathikoottam EVCS - ChargeMOD,Nenmara,Kerala,IN,10.593403,76.583525,1.0,30.0,AC_HIGH_(22-49kW),False
+313667,Vadakkenchery KSEB EVCS - ChargeMOD,Vadakkenchery,Kerala,IN,10.597238,76.479849,6.0,30.0,AC_HIGH_(22-49kW),False
+313665,Evee Buddy - ChargeMOD,Vadakkencherry,Kerala,IN,10.591957,76.465712,2.0,30.0,AC_HIGH_(22-49kW),False
+313662,Plugin EVCS - ChargeMOD,Marathakkara,Kerala,IN,10.476827,76.257582,3.0,60.0,DC_FAST_(50-149kW),True
+313661,Topup Zone EVCS - ChargeMOD,Amballur,Kerala,IN,10.433892,76.265149,2.0,60.0,DC_FAST_(50-149kW),True
+313659,EV Point EVCS - ChargeMOD,Kodakara,Kerala,IN,10.380661,76.297686,2.0,60.0,DC_FAST_(50-149kW),True
+313658,Korner EVCS - ChargeMOD,Thrissur,Kerala,IN,10.367048,76.315357,1.0,30.0,AC_HIGH_(22-49kW),False
+313656,Flash Charge EVCS - ChargeMOD,Chalakudy,Kerala,IN,10.339609,76.321746,2.0,60.0,DC_FAST_(50-149kW),True
+313655,Edassery Samrudhi Hypermarket (EVOK) - ChargeMOD,Chalakudy,Kerala,IN,10.303102,76.337042,1.0,30.0,AC_HIGH_(22-49kW),False
+313654,Indian Coffee House (EVOK) - ChargeMOD,Chalakkudy,Kerala,IN,10.289343,76.337068,1.0,30.0,AC_HIGH_(22-49kW),False
+313653,Clay House Hotel,Chalakkudy,Kerala,IN,10.285574,76.342378,1.0,30.0,AC_HIGH_(22-49kW),False
+313650,Hill View Resort (EVOK) - ChargeMOD,Athirappilly,Kerala,IN,10.28604,76.558516,2.0,30.0,AC_HIGH_(22-49kW),False
+313649,EVOK Charging Station - ChargeMOD,Angamaly,Kerala,IN,10.214061,76.379367,1.0,30.0,AC_HIGH_(22-49kW),False
+313648,Edassery Blue Bells EVCS - ChargeMOD,Angamaly,Kerala,IN,10.197144,76.38411,2.0,30.0,AC_HIGH_(22-49kW),False
+313647,Hotel Elite Palazzo,Angamaly,Kerala,IN,10.189753,76.386642,2.0,50.0,DC_FAST_(50-149kW),True
+313646,ChargeMOD EVCS Hub,Nedumbassery,Kerala,IN,10.169552,76.372256,6.0,60.0,DC_FAST_(50-149kW),True
+313645,CIAL Terminal 3,Nedumbassery,Kerala,IN,10.156586,76.391932,4.0,30.0,AC_HIGH_(22-49kW),False
+313644,CIAL Terminal 1,Nedumbassery,Kerala,IN,10.156868,76.38898,4.0,30.0,AC_HIGH_(22-49kW),False
+313643,Capgo EVCS - ChargeMOD,Nedumbassery,Kerala,IN,10.159914,76.389158,1.0,30.0,AC_HIGH_(22-49kW),False
+313642,Jippus Galaxy EVCS - ChargeMOD,Nedumbassery,Kerala,IN,10.161062,76.385631,1.0,25.0,AC_HIGH_(22-49kW),False
+313641,Airsuite Airport Hotel,Nedumbassery,Kerala,IN,10.159295,76.378523,1.0,30.0,AC_HIGH_(22-49kW),False
+313640,North Paravoor KSEB EVCS - ChargeMOD,North Paravoor,Kerala,IN,10.145633,76.256904,5.0,30.0,AC_HIGH_(22-49kW),False
+313639,Dhruv EVCS - ChargeMOD,Kunnukara,Kerala,IN,10.154913,76.286014,2.0,30.0,AC_HIGH_(22-49kW),False
+313638,Sulfex Mattress (EVOK) - ChargeMOD,Choornikkara,Kerala,IN,10.08156,76.339867,1.0,30.0,AC_HIGH_(22-49kW),False
+313637,EVM MG Motors Coastline Garage - ChargeMOD,Kochi,Kerala,IN,10.077284,76.337641,2.0,60.0,DC_FAST_(50-149kW),True
+313636,Steelane (EVOK) - ChargeMOD,Kalamassery,Kerala,IN,10.040434,76.338524,1.0,30.0,AC_HIGH_(22-49kW),False
+313635,Kalamassery KSEB EVCS - ChargeMOD,Kalamassery,Kerala,IN,10.05377,76.330868,6.0,30.0,AC_HIGH_(22-49kW),False
+313634,Rajagiri College EVCS - ChargeMOD,Kalamassery,Kerala,IN,10.052459,76.314656,3.0,30.0,AC_HIGH_(22-49kW),False
+313633,Flash Charge - ChargeMOD,Edappally,Kerala,IN,10.027761,76.311174,2.0,30.0,AC_HIGH_(22-49kW),False
+313632,Kaloor KSEB EVCS - ChargeMOD,Kaloor,Kerala,IN,10.000241,76.29843,6.0,30.0,AC_HIGH_(22-49kW),False
+313631,Gandhinagar KSEB EVCS - ChargeMOD,Kochi,Kerala,IN,9.974193,76.293682,6.0,30.0,AC_HIGH_(22-49kW),False
+313630,Chillax EVCS (EVOK) - ChargeMOD,Thammanam,Kerala,IN,9.985005,76.316065,1.0,30.0,AC_HIGH_(22-49kW),False
+313629,Evee Buddy - Memaid EVCS - ChargeMOD,Vyttila,Kerala,IN,9.971685,76.32416,1.0,30.0,AC_HIGH_(22-49kW),False
+313628,Broad Bean Hotel (EVOK) - ChargeMOD,Vyttila,Kerala,IN,9.962668,76.318214,2.0,60.0,DC_FAST_(50-149kW),True
+313627,Vyttila KSEB EVCS - ChargeMOD,Vyttila,Kerala,IN,9.962902,76.319221,6.0,30.0,AC_HIGH_(22-49kW),False
+313626,BYD EVM Southcoast Service Centre - ChargeMOD,Maradu,Kerala,IN,9.948135,76.318502,2.0,60.0,DC_FAST_(50-149kW),True
+313625,EVM La Maison Citroen Kochi - ChargeMOD,Maradu,Kerala,IN,9.940155,76.318418,2.0,30.0,AC_HIGH_(22-49kW),False
+313624,LiON EVCS - ChargeMOD,Maradu,Kerala,IN,9.942225,76.333885,2.0,30.0,AC_HIGH_(22-49kW),False
+313623,Rajagiri Hospital EVCS - ChargeMOD,Aluva,Kerala,IN,10.088032,76.389042,4.0,30.0,AC_HIGH_(22-49kW),False
+313622,Raos EVCS - ChargeMOD,Thrippunithara,Kerala,IN,9.932546,76.388294,1.0,30.0,AC_HIGH_(22-49kW),False
+313621,PPG Home EVCS - ChargeMOD,Thrippunithara,Kerala,IN,9.932988,76.388736,4.0,60.0,DC_FAST_(50-149kW),True
+313620,We Connect EVCS - ChargeMOD,Kakkanad,Kerala,IN,10.001802,76.361518,2.0,60.0,DC_FAST_(50-149kW),True
+313619,Wonderla - Statiq,Pallikkara,Kerala,IN,10.026022,76.391996,5.0,60.0,DC_FAST_(50-149kW),True
+313618,Matha DC EVCS - ChargeMOD,Kizhakkambalam,Kerala,IN,10.031937,76.407493,2.0,30.0,AC_HIGH_(22-49kW),False
+313617,Hotel Oottupura (EVOK) - ChargeMOD,Perumbavoor,Kerala,IN,10.130171,76.47072,1.0,30.0,AC_HIGH_(22-49kW),False
+313616,Renvolt (EVOK) - ChargeMOD,Kothamangalam,Kerala,IN,10.06947,76.60263,2.0,60.0,DC_FAST_(50-149kW),True
+313615,Kothamangalam KSEB EVCS - ChargeMOD,Kothamangalam,Kerala,IN,10.053981,76.615384,6.0,30.0,AC_HIGH_(22-49kW),False
+313614,GATR PowerFin EVCS - ChargeMOD,Muvattupuzha,Kerala,IN,9.979469,76.550678,1.0,30.0,AC_HIGH_(22-49kW),False
+313613,PlugMap EVCS by Evan and Eyan - ChargeMOD,Moovattupuzha,Kerala,IN,9.978863,76.58444,2.0,30.0,AC_HIGH_(22-49kW),False
+313612,Kabani International (EVOK) - ChargeMOD,Moovattupuzha,Kerala,IN,9.979118,76.58664,2.0,30.0,AC_HIGH_(22-49kW),False
+313611,Pineapple City EVCS - ChargeMOD,Thodupuzha,Kerala,IN,9.946157,76.635631,2.0,60.0,DC_FAST_(50-149kW),True
+313610,Hotel Woodlands - ChargeMOD,Thodupuzha,Kerala,IN,9.917341,76.687581,2.0,30.0,AC_HIGH_(22-49kW),False
+313609,Thodupuzha KSEB EVCS - ChargeMOD,Thodupuzha,Kerala,IN,9.892123,76.708531,6.0,30.0,AC_HIGH_(22-49kW),False
+313608,EQ EV Nest - ChargeMOD,Karimkunnam,Kerala,IN,9.863114,76.697091,2.0,30.0,AC_HIGH_(22-49kW),False
+313606,Royal EV Charging - ChargeMOD,Koothattukulam,Kerala,IN,9.856563,76.59657,3.0,30.0,AC_HIGH_(22-49kW),False
+313605,EQ ChargeMate - ChargeMOD,Thalayolaparambu,Kerala,IN,9.798851,76.459887,2.0,30.0,AC_HIGH_(22-49kW),False
+313603,Sihla Energy - ChargeMOD,Kumarakom,Kerala,IN,9.594581,76.426069,2.0,30.0,AC_HIGH_(22-49kW),False
+313602,BMW EVM Autokraft Service Center - ChargeMOD,Kochuveli,Kerala,IN,8.502329,76.897726,1.0,24.0,AC_HIGH_(22-49kW),False
+313601,ChargeMOD EVCS,Thiruvananthapuram,Kerala,IN,8.357874,77.072945,2.0,40.0,AC_HIGH_(22-49kW),False
+313600,Emily By JDaniels,Poojappura,Kerala,IN,8.494975,76.977568,2.0,60.0,DC_FAST_(50-149kW),True
+313599,Nuke EVCS - ChargeMOD,Sreekaryam,Kerala,IN,8.548542,76.918293,2.0,30.0,AC_HIGH_(22-49kW),False
+313598,Electro Zone EV Fast Charging Station - ChargeMOD,Karyavattom,Kerala,IN,8.56082,76.898165,1.0,30.0,AC_HIGH_(22-49kW),False
+313597,Akshaya EV Fast Charging Station - ChargeMOD,Kazhakuttom,Kerala,IN,8.5653,76.874447,2.0,30.0,AC_HIGH_(22-49kW),False
+313596,Hybrid Cars Kazkakuttom - ChargeMOD,Kazhakuttom,Kerala,IN,8.55245,76.874472,1.0,30.0,AC_HIGH_(22-49kW),False
+313594,Moolamattom KSEB EVCS - ChargeMOD,Moolamattom,Kerala,IN,9.78917,76.853857,6.0,30.0,AC_HIGH_(22-49kW),False
+313593,EQ Vagamon EV Port - ChargeMOD,Vagamon,Kerala,IN,9.684304,76.895483,3.0,30.0,AC_HIGH_(22-49kW),False
+313592,Palm Peats (EVOK) - ChargeMOD,Erattupetta,Kerala,IN,9.690679,76.77459,1.0,30.0,AC_HIGH_(22-49kW),False
+313591,Flour Mill (EVOK) - ChargeMOD,Pala,Kerala,IN,9.711918,76.693244,1.0,30.0,AC_HIGH_(22-49kW),False
+313590,Jim and Jims EVCS - ChargeMOD,Pala,Kerala,IN,9.691624,76.640317,4.0,60.0,DC_FAST_(50-149kW),True
+313589,Alpha Hangout Play World,Ettumanoor,Kerala,IN,9.661164,76.551328,2.0,60.0,DC_FAST_(50-149kW),True
+313587,Gandhi Nagar KSEB EVCS - ChargeMOD,Arpookara,Kerala,IN,9.632684,76.524402,5.0,30.0,AC_HIGH_(22-49kW),False
+313586,Indraprastha Hotel (EVOK) - ChargeMOD,Kottayam,Kerala,IN,9.601837,76.532159,1.0,30.0,AC_HIGH_(22-49kW),False
+313585,Charge n Fresh EVCS - ChargeMOD,Kottayam,Kerala,IN,9.586257,76.588415,2.0,30.0,AC_HIGH_(22-49kW),False
+313584,Pallam KSEB EVCS - ChargeMOD,Pallom,Kerala,IN,9.543065,76.514231,6.0,30.0,AC_HIGH_(22-49kW),False
+313583,Amma Restaurant,Alappuzha,Kerala,IN,9.519932,76.327522,1.0,30.0,AC_HIGH_(22-49kW),False
+313582,Thankamanys EV Fast Charging Station - ChargeMOD,Alappuzha,Kerala,IN,9.505147,76.328326,1.0,30.0,AC_HIGH_(22-49kW),False
+313581,Punnapra KSEB EVCS - ChargeMOD,Punnapra,Kerala,IN,9.425617,76.346773,5.0,30.0,AC_HIGH_(22-49kW),False
+313580,Pathalil EVCS - Charge MOD,Nedumkunnam,Kerala,IN,9.506164,76.652334,1.0,30.0,AC_HIGH_(22-49kW),False
+313579,JJ E Fills - ChargeMOD,Changanassery,Kerala,IN,9.45225,76.547239,3.0,60.0,DC_FAST_(50-149kW),True
+313578,Wealfro EV Hub,Thiruvalla,Kerala,IN,9.421076,76.546134,1.0,40.0,AC_HIGH_(22-49kW),False
+313577,Anand Hypermarket - ChargeMOD,Thiruvalla,Kerala,IN,9.373322,76.564811,1.0,25.0,AC_HIGH_(22-49kW),False
+313576,Iongrid EV Spark - ChargeMOD,Edathwa,Kerala,IN,9.367526,76.499518,3.0,30.0,AC_HIGH_(22-49kW),False
+313575,V Charge Hub - ChargeMOD,Karuvatta,Kerala,IN,9.31425,76.429108,4.0,60.0,DC_FAST_(50-149kW),True
+313574,Quick Charge EVCS - ChargeMOD,Karuvatta,Kerala,IN,9.31575,76.401221,7.0,60.0,DC_FAST_(50-149kW),True
+313569,Phills Hub EVCS - ChargeMOD,Pathanamthitta,Kerala,IN,9.316652,76.800902,2.0,60.0,DC_FAST_(50-149kW),True
+313567,Pamba KSEB EVCS - ChargeMOD,Pamba,Kerala,IN,9.412378,77.069969,6.0,30.0,AC_HIGH_(22-49kW),False
+313560,EVOK Pathanamthitta - ChargeMOD,Pathanamthitta,Kerala,IN,9.306222,76.803666,1.0,30.0,AC_HIGH_(22-49kW),False
+313559,Green Plug EVCS - ChargeMOD,Chengannur,Kerala,IN,9.271845,76.655088,1.0,30.0,AC_HIGH_(22-49kW),False
+313557,PTC Arcade - ChargeMOD,Chengannur,Kerala,IN,9.301293,76.630779,3.0,90.0,DC_FAST_(50-149kW),True
+313554,Askar EV - ChargeMOD,Mavelikkara,Kerala,IN,9.232506,76.537903,1.0,25.0,AC_HIGH_(22-49kW),False
+313553,Anaswara Jewellers EVCS - ChargeMOD,Konni,Kerala,IN,9.229128,76.848391,1.0,30.0,AC_HIGH_(22-49kW),False
+313552,EQ Power Buzz EVCS - ChargeMOD,Paranthal,Kerala,IN,9.187184,76.709295,2.0,25.0,AC_HIGH_(22-49kW),False
+313550,Adhithya Green Power - ChargeMOD,Paranthal,Kerala,IN,9.180308,76.708967,1.0,30.0,AC_HIGH_(22-49kW),False
+313549,SR Auto Zone - ChargeMOD,Adoor,Kerala,IN,9.162499,76.710517,1.0,30.0,AC_HIGH_(22-49kW),False
+313548,Artemis EV Super Charger - ChargeMOD,Mavelikkara,Kerala,IN,9.198881,76.600177,2.0,30.0,AC_HIGH_(22-49kW),False
+313547,Royale Regency (EVOK) - ChargeMOD,Ochira,Kerala,IN,9.130626,76.514297,1.0,30.0,AC_HIGH_(22-49kW),False
+313546,Delight Launch Cafe - ChargeMOD,Kottarakkara,Kerala,IN,9.05935,76.766004,2.0,30.0,AC_HIGH_(22-49kW),False
+313545,Ente Veedu Interior (EVOK) - ChargeMOD,Kottarakkara,Kerala,IN,9.030352,76.782198,1.0,30.0,AC_HIGH_(22-49kW),False
+313541,Thenmala EVOK - ChargeMOD,Thenmala,Kerala,IN,8.966824,77.05563,1.0,30.0,AC_HIGH_(22-49kW),False
+313540,Plug N Pay EVCS - ChargeMOD,Odanavattom,Kerala,IN,8.935045,76.772415,1.0,30.0,AC_HIGH_(22-49kW),False
+313539,Kundara KSEB - ChargeMOD,Kundara,Kerala,IN,8.957186,76.671337,6.0,30.0,AC_HIGH_(22-49kW),False
+313538,Sree Suprabhatham - ChargeMOD,Kollam,Kerala,IN,8.92697,76.552803,2.0,60.0,DC_FAST_(50-149kW),True
+313537,Bishop Jerome Nagar (EVOK) EVCS - ChargeMOD,Chinnakkada,Kerala,IN,8.887577,76.588437,2.0,60.0,DC_FAST_(50-149kW),True
+313536,VOX Xpress Wash (EVOK) - ChargeMOD,Kollam,Kerala,IN,8.873868,76.641009,1.0,30.0,AC_HIGH_(22-49kW),False
+313535,EVOK Charging Stattion - ChargeMOD,Parippalli,Kerala,IN,8.819674,76.753637,1.0,30.0,AC_HIGH_(22-49kW),False
+313534,Plug N Pay EVCS,Kottarakkara,Kerala,IN,8.935694,76.851049,2.0,30.0,AC_HIGH_(22-49kW),False
+313533,Kottiyam KSEB EVCS - ChargeMOD,Kottiyam,Kerala,IN,8.86637,76.668878,6.0,30.0,AC_HIGH_(22-49kW),False
+313532,Avananchery KSEB EVCS - ChargeMOD,Attingal,Kerala,IN,8.690988,76.848398,6.0,30.0,AC_HIGH_(22-49kW),False
+313531,Paruthippara KSEB EVCS - ChargeMOD,Paruthippara,Kerala,IN,8.534934,76.941984,6.0,60.0,DC_FAST_(50-149kW),True
+313530,Pattom KSEB EVCS - ChargeMOD,Pattom,Kerala,IN,8.516754,76.939688,6.0,60.0,DC_FAST_(50-149kW),True
+313529,ANERT EESL - Pinarayi Park,Kannur,Kerala,IN,11.795232,75.490219,3.0,60.0,DC_FAST_(50-149kW),True
+313528,ANERT EESL - Aahar Restaurant Vadakara,Vadakara,Kerala,IN,11.586365,75.59322,3.0,60.0,DC_FAST_(50-149kW),True
+313527,ANERT EESL - Moosakkutti Memorial Bus Stand,Perinthalmanna,Kerala,IN,10.975069,76.222283,3.0,60.0,DC_FAST_(50-149kW),True
+313526,ANERT EESL - Kanjirappuzha Garden,Mannarkkad,Kerala,IN,10.989259,76.537012,3.0,60.0,DC_FAST_(50-149kW),True
+313525,ANERT EESL - KTDC Aahar Restaurant,Kayamkulam,Kerala,IN,9.149022,76.512918,3.0,60.0,DC_FAST_(50-149kW),True
+313515,ANERT EESL - Kulappulli Bus Stand,Shornur,Kerala,IN,10.781016,76.278328,3.0,60.0,DC_FAST_(50-149kW),True
+313514,ANERT EESL - KILA Thrissur,Thrissur,Kerala,IN,10.601582,76.214882,3.0,60.0,DC_FAST_(50-149kW),True
+313513,ANERT EESL - Chittur Thathamangalam Minicipality,Palakkad,Kerala,IN,10.692952,76.726262,3.0,60.0,DC_FAST_(50-149kW),True
+313512,ANERT EESL - DTPC Idukki Park,Idukki,Kerala,IN,9.849057,76.977404,3.0,60.0,DC_FAST_(50-149kW),True
+313511,ANERT EESL - Ernakulam,Ernakulam,Kerala,IN,9.976989,76.277811,4.0,60.0,DC_FAST_(50-149kW),True
+313510,ANERT EESL - Autokast,Cherthala,Kerala,IN,9.6337,76.333722,3.0,60.0,DC_FAST_(50-149kW),True
+313509,ANERT EESL Milma Diary Plant - EESL,Pathanamthitta,Kerala,IN,9.218789,76.748754,3.0,60.0,DC_FAST_(50-149kW),True
+313508,ANERT - EESL Sangamukham - EESL,Thiruvananthapuram,Kerala,IN,8.481015,76.912643,4.0,60.0,DC_FAST_(50-149kW),True
+313507,Apco Hyundai - ChargeZone,Chengala,Kerala,IN,12.508915,75.044784,2.0,30.0,AC_HIGH_(22-49kW),False
+313506,Thiruvangoor EV Fast Charging Station - ChargeMOD,Kozhikode,Kerala,IN,11.382827,75.735936,2.0,60.0,DC_FAST_(50-149kW),True
+313505,MB#Bridgeway Motors - ChargeZone,Kozhikode,Kerala,IN,11.282499,75.769599,2.0,30.0,AC_HIGH_(22-49kW),False
+313504,KVR Hyundai - ChargeZone,Kozhikode,Kerala,IN,11.279978,75.770481,2.0,30.0,AC_HIGH_(22-49kW),False
+313503,Grand Hyundai - ChargeZone,Palakkad,Kerala,IN,10.790477,76.651119,2.0,30.0,AC_HIGH_(22-49kW),False
+313502,MB#Bridgeway Motors - ChargeZone,Thrissur,Kerala,IN,10.471047,76.257459,2.0,30.0,AC_HIGH_(22-49kW),False
+313501,Kochi Marriot Hotel,Kochi,Kerala,IN,10.029828,76.308134,2.0,30.0,AC_HIGH_(22-49kW),False
+313500,Le Meridien - ChargeZone,Ernakulam,Kerala,IN,9.933863,76.316874,2.0,30.0,AC_HIGH_(22-49kW),False
+313499,MB#Coastal Star - ChargeZone,Ernakulam,Kerala,IN,9.92299,76.317689,2.0,90.0,DC_FAST_(50-149kW),True
+313498,GreenVeel - ChargeZone,Muvattupuzha,Kerala,IN,9.973784,76.600694,1.0,30.0,AC_HIGH_(22-49kW),False
+313497,GreenVeel - ChargeZone,Idukki,Kerala,IN,9.892548,76.711894,2.0,30.0,AC_HIGH_(22-49kW),False
+313496,Athirampuzha - ChargeZone,Kottayam,Kerala,IN,9.661688,76.551137,2.0,30.0,AC_HIGH_(22-49kW),False
+313495,SS Hyundai - ChargeZone,Pathanamthitta,Kerala,IN,9.277745,76.754683,2.0,30.0,AC_HIGH_(22-49kW),False
+313494,GDM Auditorium - ChargeZone,Kayamkulam,Kerala,IN,9.169962,76.498088,2.0,30.0,AC_HIGH_(22-49kW),False
+313493,Hotel Indraprastha - ChargeZone,Karunagappalli,Kerala,IN,9.052355,76.535461,2.0,30.0,AC_HIGH_(22-49kW),False
+313492,Best EVCS - ChargeMOD,Karunagappalli,Kerala,IN,9.046053,76.536631,2.0,30.0,AC_HIGH_(22-49kW),False
+313491,Instacharge EV Fast Charging and Cafe - ChargeZone,Kollam,Kerala,IN,8.915427,76.614869,3.0,30.0,AC_HIGH_(22-49kW),False
+313490,Chungath Sprise Hyundai - ChargeZone,Kollam,Kerala,IN,8.911105,76.627353,2.0,30.0,AC_HIGH_(22-49kW),False
+313489,KVE Charge - Charge-Zone,Varkkala,Kerala,IN,8.737548,76.707898,2.0,30.0,AC_HIGH_(22-49kW),False
+313488,Marvel Paints - ChargeZone,Thiruvananthapuram,Kerala,IN,8.535706,76.965262,2.0,30.0,AC_HIGH_(22-49kW),False
+313475,Raj Residency - Zeon,Kanhangad,Kerala,IN,12.304242,75.097042,1.0,50.0,DC_FAST_(50-149kW),True
+313474,Koodali SCB,Kannur,Kerala,IN,11.927017,75.500422,1.0,30.0,AC_HIGH_(22-49kW),False
+313472,Co-Operqative Bank - Zeon,Kathirur,Kerala,IN,11.787886,75.533021,3.0,30.0,AC_HIGH_(22-49kW),False
+313471,Down Town Mall - Zeon,Thalasseri,Kerala,IN,11.745123,75.495419,2.0,60.0,DC_FAST_(50-149kW),True
+313469,Issacs Centre Square - Zeon,Sulthan Batheri,Kerala,IN,11.661242,76.255681,1.0,24.0,AC_HIGH_(22-49kW),False
+313468,Great Trails Wayanad by GRT Hotels,Kalpetta,Kerala,IN,11.630456,76.018146,1.0,22.0,AC_HIGH_(22-49kW),False
+313467,Nesto Hypermarket - Zeon,Kalpetta,Kerala,IN,11.603114,76.083149,1.0,24.0,AC_HIGH_(22-49kW),False
+313465,HiLite Mall - Zeon,Kozhikode,Kerala,IN,11.248102,75.834136,4.0,120.0,DC_FAST_(50-149kW),True
+313464,HiLite Business Park - Zeon,Kozhikode,Kerala,IN,11.247016,75.834679,3.0,60.0,DC_FAST_(50-149kW),True
+313461,Nesto Hypermarket - Zeon,Kottakkal,Kerala,IN,10.995739,75.99211,2.0,60.0,DC_FAST_(50-149kW),True
+313460,Club Sulaimani - Zeon,Kottakkal,Kerala,IN,10.983867,75.99803,1.0,24.0,AC_HIGH_(22-49kW),False
+313459,Nesto Hypermarket Zeon,Thirur,Kerala,IN,10.907726,75.920326,2.0,60.0,DC_FAST_(50-149kW),True
+313458,Emirates Mall - Zeon,Edappal,Kerala,IN,10.786021,76.008162,1.0,24.0,AC_HIGH_(22-49kW),False
+313456,Hotel Devaragam,Guruvayur,Kerala,IN,10.595623,76.044598,1.0,24.0,AC_HIGH_(22-49kW),False
+313455,Nesto Hypermarket,Thrissur,Kerala,IN,10.539926,76.192888,2.0,60.0,DC_FAST_(50-149kW),True
+313454,Dream City Convention Center,Pattikkad,Kerala,IN,10.555872,76.322823,1.0,24.0,AC_HIGH_(22-49kW),False
+313453,Chennai Ananda Bhavan,Thrissur,Kerala,IN,10.51276,76.258917,2.0,60.0,DC_FAST_(50-149kW),True
+313452,Hilite Mall,Thrissur,Kerala,IN,10.495489,76.256803,5.0,120.0,DC_FAST_(50-149kW),True
+313451,Mughal Mall,Kodungallur,Kerala,IN,10.231319,76.197243,2.0,60.0,DC_FAST_(50-149kW),True
+313450,Maxx Inn M Star,Angamaly,Kerala,IN,10.222724,76.375698,1.0,24.0,AC_HIGH_(22-49kW),False
+313449,Club Mahindra Resort - Cherai Beach,Cherai,Kerala,IN,10.137094,76.18029,2.0,22.0,AC_HIGH_(22-49kW),False
+313447,Grand Mall,Edappalli,Kerala,IN,10.02416,76.308712,3.0,60.0,DC_FAST_(50-149kW),True
+313446,Gokul Oottupura Restaurant,Edappalli,Kerala,IN,10.011145,76.312497,1.0,50.0,DC_FAST_(50-149kW),True
+313445,Brunton Boatyard,Cochin,Kerala,IN,9.968305,76.245709,1.0,24.0,AC_HIGH_(22-49kW),False
+313444,Casino Hotel,Kochi,Kerala,IN,9.961431,76.269491,1.0,22.0,AC_HIGH_(22-49kW),False
+313443,Hotel Ganga Grand,Moovattupuzha,Kerala,IN,9.981771,76.578304,2.0,60.0,DC_FAST_(50-149kW),True
+313442,Eden Wood Resorts,Munnar,Kerala,IN,10.025676,77.053771,1.0,22.0,AC_HIGH_(22-49kW),False
+313441,Club Mahindra Aleppey Resort,Arookutty,Kerala,IN,9.859751,76.335824,2.0,22.0,AC_HIGH_(22-49kW),False
+313440,CGH Marari Beach,Mararikulam,Kerala,IN,9.596034,76.30277,1.0,22.0,AC_HIGH_(22-49kW),False
+313439,Cassia Restaurant,Alappuzha,Kerala,IN,9.518714,76.327485,2.0,60.0,DC_FAST_(50-149kW),True
+313438,Hotel Aida,Kottayam,Kerala,IN,9.58288,76.521686,1.0,50.0,DC_FAST_(50-149kW),True
+313437,The Windsor Castle Hotel,Kottayam,Kerala,IN,9.571548,76.519369,1.0,24.0,AC_HIGH_(22-49kW),False
+313436,Club Mahindra Resort - Thekkadi,Kumali,Kerala,IN,9.603437,77.171548,2.0,22.0,AC_HIGH_(22-49kW),False
+313435,RD Cinemas,Mundakkayam,Kerala,IN,9.544093,76.877335,1.0,24.0,AC_HIGH_(22-49kW),False
+313434,Kanthari Restaurants,Changanassery,Kerala,IN,9.455165,76.542424,1.0,24.0,AC_HIGH_(22-49kW),False
+313433,Mannil Green Solutions,Mavelikkara,Kerala,IN,9.283238,76.53084,2.0,60.0,DC_FAST_(50-149kW),True
+313432,Phills Hub - Zeon,Pathanamthitta,Kerala,IN,9.316719,76.800971,3.0,24.0,AC_HIGH_(22-49kW),False
+313431,Wyte Portico Hotel,Adoor,Kerala,IN,9.161948,76.721496,1.0,24.0,AC_HIGH_(22-49kW),False
+313430,Pooyappalli Service Co-Operative Bank Ltd,Kollam,Kerala,IN,8.898682,76.742138,4.0,30.0,AC_HIGH_(22-49kW),False
+313420,N and N Station,Kottiyam,Kerala,IN,8.864731,76.660483,2.0,30.0,AC_HIGH_(22-49kW),False
+313419,Amma Veedu Restaurent,Ayoor,Kerala,IN,8.930368,76.85382,1.0,30.0,AC_HIGH_(22-49kW),False
+313418,DM Charging,Parippilli,Kerala,IN,8.812579,76.756752,2.0,60.0,DC_FAST_(50-149kW),True
+313417,New Indraprastha (EVOK) EVCS,Kallambalam,Kerala,IN,8.79202,76.770632,1.0,30.0,AC_HIGH_(22-49kW),False
+313416,Vazhiyorakkada Hotel,KIlimamoor,Kerala,IN,8.785763,76.8837,1.0,30.0,AC_HIGH_(22-49kW),False
+313406,Astro Burgers,Attingal,Kerala,IN,8.687608,76.829924,1.0,24.0,AC_HIGH_(22-49kW),False
+313405,Edackodu Bank EVCS,Thiruvananthapuram,Kerala,IN,8.6715,76.834998,3.0,60.0,DC_FAST_(50-149kW),True
+313404,Kerala EV Vembayam,Thiruvananthapuram,Kerala,IN,8.651755,76.92798,2.0,60.0,DC_FAST_(50-149kW),True
+313403,Ultralink EVCS Charging Station,Thiruvananthapuram,Kerala,IN,8.330757,77.142376,2.0,30.0,AC_HIGH_(22-49kW),False
+313402,Club Mahindra Resort Poovar,Thiruvananthapuram,Kerala,IN,8.306584,77.086086,2.0,22.0,AC_HIGH_(22-49kW),False
+313401,Powerhub EVCS Attukal,Thiruvananthapuram,Kerala,IN,8.466545,76.960808,2.0,30.0,AC_HIGH_(22-49kW),False
+313400,Sleeba & Sons Station,Thiruvananthapuram,Kerala,IN,8.544983,76.972298,1.0,60.0,DC_FAST_(50-149kW),True
+313399,JKV Power Hub,Thiruvananthapuram,Kerala,IN,8.503668,76.953916,1.0,30.0,AC_HIGH_(22-49kW),False
+313398,Hilton Garden Inn Trivandrum,Thiruvananthapuram,Kerala,IN,8.499635,76.950299,2.0,60.0,DC_FAST_(50-149kW),True
+313397,CBC Motors Charging Station,Thiruvananthapuram,Kerala,IN,8.465872,76.939098,1.0,60.0,DC_FAST_(50-149kW),True
+313396,Trivandrum Airport T1,Thiruvananthapuram,Kerala,IN,8.476058,76.91831,2.0,30.0,AC_HIGH_(22-49kW),False
+313395,Trivandrum Airport T2,Thiruvananthapuram,Kerala,IN,8.488387,76.922451,2.0,30.0,AC_HIGH_(22-49kW),False
+313394,V Kay Super Market,Thiruvananthapuram,Kerala,IN,8.57509,76.868417,1.0,30.0,AC_HIGH_(22-49kW),False
+313393,ChargeMOD EVCS Hub,Thiruvananthapuram,Kerala,IN,8.550684,76.878488,3.0,60.0,DC_FAST_(50-149kW),True
+313392,Delta Power Kulathoor,Thiruvananthapuram,Kerala,IN,8.542037,76.875819,3.0,60.0,DC_FAST_(50-149kW),True
+313391,KIMS Hospital Trivandrum (EVOK),Thiruvananthapuram,Kerala,IN,8.514471,76.907847,1.0,30.0,AC_HIGH_(22-49kW),False
+313390,Alpha EVCS Yahoo Super Bazar,Thiruvanthapuram,Kerala,IN,8.510832,76.90484,2.0,60.0,DC_FAST_(50-149kW),True
+312635,Mansavi SuperCharge Point,G B Nagar,Uttar Pradesh,IN,28.455186,77.503585,1.0,30.0,AC_HIGH_(22-49kW),False
+312412,Sri Sai Kanchetty Family Restaurant,Dichpally,Telangana,IN,18.632171,78.20817,1.0,60.0,DC_FAST_(50-149kW),True
+312374,Hotel Topline,Dhule,Maharashtra,IN,20.836968,74.75561,1.0,60.0,DC_FAST_(50-149kW),True
+312373,Hotel Mayur Express,Sangamner,Maharashtra,IN,19.520114,74.202737,1.0,30.0,AC_HIGH_(22-49kW),False
+312061,FC - JioBP - The Bengal Dhaba,Kalyani,West Bengal,IN,22.922668,88.456284,1.0,60.0,DC_FAST_(50-149kW),True
+312060,FC - JioBP - WBSDCL Athupur,Barrakpore,West Bengal,IN,22.839467,88.385864,1.0,30.0,AC_HIGH_(22-49kW),False
+312059,FC - Jio-BP - Khardaha,Khardaha,West Bengal,IN,22.706572,88.374349,1.0,60.0,DC_FAST_(50-149kW),True
+312058,FC - Tata Power - Taj Raajkutir,Kolkata,West Bengal,IN,22.573506,88.4023,1.0,30.0,AC_HIGH_(22-49kW),False
+312046,Azadpur Metro Station,Delhi,Delhi,IN,28.706612,77.182108,4.0,60.0,DC_FAST_(50-149kW),True
+311985,Village Vatika Restaurant And Hotel,Danora,Madhya Pradesh,IN,21.885671,77.883991,1.0,60.0,DC_FAST_(50-149kW),True
+311983,Vithal Kamats,Hinganghat,Maharashtra,IN,20.574439,78.882304,2.0,30.0,AC_HIGH_(22-49kW),False
+311977,Hotel Bluemoon,Miduthuru,Andhra Pradesh,IN,15.026219,77.621073,2.0,150.0,DC_ULTRA_(>=150kW),True
+311910,Mahaveer Ventures Hotel and Resort - The Padival Grand,Puttur,Karnataka,IN,12.76619,75.19666,2.0,24.0,AC_HIGH_(22-49kW),False
+311895,Silavattam Village,"Madurathakam, Chengalpattu Dt",Tamil Nadu,IN,12.481488,79.862522,1.0,,UNKNOWN,False
+311813,Mahalaxmi EV Charging STATION,Gautaum Buddha Nagar,Uttar Pradesh,IN,28.54753,77.44491,3.0,9.0,AC_L2_(7.5-21kW),False
+311731,"Baboos Triangle, Zeon Charging Station",Kunnamkulam,Kerala,IN,10.719479,76.07748,2.0,60.0,DC_FAST_(50-149kW),True
+311680,Etron Energies,Chennai,Tamil Nadu,IN,13.07148,80.11256,1.0,30.0,AC_HIGH_(22-49kW),False
+311679,Regency Tiruttani by GRT Hotels,Thiruttani,Tamil Nadu,IN,13.19516,79.64576,1.0,24.0,AC_HIGH_(22-49kW),False
+311678,RB Business Centre,Vellore,Tamil Nadu,IN,12.86196,79.13251,1.0,30.0,AC_HIGH_(22-49kW),False
+311677,Regency Sameera Vellore by GRT Hotels,Vellore,Tamil Nadu,IN,12.93209,79.13843,1.0,24.0,AC_HIGH_(22-49kW),False
+311676,7 Star Green Veg Restaurant,Vaniyambadi,Tamil Nadu,IN,12.64682,78.58269,1.0,60.0,DC_FAST_(50-149kW),True
+311648,"Cafe Udupi Ruchi, Ulundurpet",Ulundurpet,Tamil Nadu,IN,11.71937,79.33668,1.0,30.0,AC_HIGH_(22-49kW),False
+311647,Hotel Sri Anandhas,Veppur,Tamil Nadu,IN,11.59206,79.15621,1.0,50.0,DC_FAST_(50-149kW),True
+311646,"Adyar Ananda Bhavan, Kallakurichi",Kallakurichi,Tamil Nadu,IN,11.71086,78.94797,1.0,60.0,DC_FAST_(50-149kW),True
+311645,"Adyar Ananda Bhavan, Attur",Attur,Tamil Nadu,IN,11.592,78.62726,1.0,50.0,DC_FAST_(50-149kW),True
+311644,Aswins Veg Restaurant,Perambalur,Tamil Nadu,IN,11.209,78.8828,1.0,50.0,DC_FAST_(50-149kW),True
+311643,AVS Imperiaa,Karaikal,Puducherry,IN,10.93799,79.8224,1.0,24.0,AC_HIGH_(22-49kW),False
+311642,Golden Sand,Velankanni,Tamil Nadu,IN,10.68292,79.8478,1.0,24.0,AC_HIGH_(22-49kW),False
+311641,"Jayaraj Karz, Vallam Pudur Sethi",Thanjavur,Tamil Nadu,IN,10.728,79.04692,1.0,30.0,AC_HIGH_(22-49kW),False
+311640,"Kaveri Garage, Tiruchirapalli",Tiruchirappalli,Tamil Nadu,IN,10.85843,78.71129,1.0,50.0,DC_FAST_(50-149kW),True
+311639,Hotel Arun Cafe,Viralimalai,Tamil Nadu,IN,10.6244,78.56317,1.0,24.0,AC_HIGH_(22-49kW),False
+311638,"Kaveri Garage, Piratiyur",Piratiyur,Tamil Nadu,IN,10.79194,78.65714,1.0,24.0,AC_HIGH_(22-49kW),False
+311637,Hotel Malar,Karaikudi,Tamil Nadu,IN,10.07009,78.76079,1.0,30.0,AC_HIGH_(22-49kW),False
+311636,Regency Tuticorin by GRT Hotels,Thoothukudi,Tamil Nadu,IN,8.7816,78.10053,1.0,30.0,AC_HIGH_(22-49kW),False
+311635,Pearl Garden Resort,Veerapandianpattinam,Tamil Nadu,IN,8.53918,78.11771,1.0,24.0,AC_HIGH_(22-49kW),False
+311634,"Sree Saravana Bhavan, Sankagiri",Sangagiri,Tamil Nadu,IN,11.4866,77.99226,1.0,30.0,AC_HIGH_(22-49kW),False
+311633,"Milky Mist Cafe, Erode Sathy Highway",Erode,Tamil Nadu,IN,11.3998,77.62536,1.0,50.0,DC_FAST_(50-149kW),True
+311632,Texvalley,Erode,Tamil Nadu,IN,11.37172,77.64731,1.0,60.0,DC_FAST_(50-149kW),True
+311631,Victory Tata,Erode,Tamil Nadu,IN,11.31239,77.66505,1.0,24.0,AC_HIGH_(22-49kW),False
+311630,Sri Kongu Bakes,Perundurai,Tamil Nadu,IN,11.28353,77.55823,1.0,30.0,AC_HIGH_(22-49kW),False
+311629,Junior Kuppanna,Avinashi,Tamil Nadu,IN,11.17708,77.24713,1.0,30.0,AC_HIGH_(22-49kW),False
+311628,"Sree Annapoorna Hotel, Avinashi",Avinashi,Tamil Nadu,IN,11.17513,77.26342,1.0,60.0,DC_FAST_(50-149kW),True
+311627,Cafe Udupi Ruchi,Avinashi,Tamil Nadu,IN,11.17719,77.28392,1.0,50.0,DC_FAST_(50-149kW),True
+311626,Annapoorna - NH Avinashi,Avinashi,Tamil Nadu,IN,11.1778,77.28318,1.0,30.0,AC_HIGH_(22-49kW),False
+311625,"Ibex River Resort, Pollachi",Pollachi,Tamil Nadu,IN,10.64693,76.91992,1.0,7.4,AC_L1_(<7.5kW),False
+311624,Travlounge - Palakkad,Walayar,Kerala,IN,10.82633,76.82033,1.0,30.0,AC_HIGH_(22-49kW),False
+311623,Adyar Ananda Bhavan Navakkarai,Navakkarai,Tamil Nadu,IN,10.85592,76.86251,1.0,60.0,DC_FAST_(50-149kW),True
+311622,"SR Jungle Resort, Anaikatti",Anaikatti,Tamil Nadu,IN,11.11848,76.75985,1.0,22.0,AC_HIGH_(22-49kW),False
+311610,Sundaram Motors Coimbatore,Coimbatore,Tamil Nadu,IN,10.91863,76.98461,1.0,45.0,AC_HIGH_(22-49kW),False
+311609,Hotel Sri Mu Saravana Bhavan,Coimbatore,Tamil Nadu,IN,11.00142,77.06625,1.0,25.0,AC_HIGH_(22-49kW),False
+311608,IOCL Singanallur,Coimbatore,Tamil Nadu,IN,11.0028,77.03874,1.0,30.0,AC_HIGH_(22-49kW),False
+311607,PPS MG Motors,Coimbatore,Tamil Nadu,IN,11.05013,77.05773,1.0,25.0,AC_HIGH_(22-49kW),False
+311606,Fairfield by Marriott Coimbatore,Coimbatore,Tamil Nadu,IN,11.03623,77.03736,1.0,30.0,AC_HIGH_(22-49kW),False
+311605,Zibe Coimbatore by GRT Hotels,Coimbatore,Tamil Nadu,IN,11.02287,76.99726,1.0,7.4,AC_L1_(<7.5kW),False
+311604,3 Star Auto Care,Coimbatore,Tamil Nadu,IN,11.01434,76.98979,1.0,30.0,AC_HIGH_(22-49kW),False
+311603,Ibis Coimbatore City Centre,Coimbatore,Tamil Nadu,IN,11.01223,76.98654,1.0,15.0,AC_L2_(7.5-21kW),False
+311602,Zone by The Park Hotel,Coimbatore,Tamil Nadu,IN,11.01157,76.98444,1.0,30.0,AC_HIGH_(22-49kW),False
+311601,Taj Vivanta Coimbatore,Coimbatore,Tamil Nadu,IN,11.0025,76.97363,1.0,30.0,AC_HIGH_(22-49kW),False
+311600,"Welcomhotel By ITC Hotels, Race Course, Coimbatore",Coimbatore,Tamil Nadu,IN,10.99713,76.97389,1.0,60.0,DC_FAST_(50-149kW),True
+311599,VEEV Brookfields,Coimbatore,Tamil Nadu,IN,11.00939,76.95905,8.0,30.0,AC_HIGH_(22-49kW),False
+311598,Corporation Parking Lot,Coimbatore,Tamil Nadu,IN,11.01695,76.96566,1.0,50.0,DC_FAST_(50-149kW),True
+311597,PSV EV Point,Coimbatore,Tamil Nadu,IN,11.08231,76.98681,1.0,30.0,AC_HIGH_(22-49kW),False
+311596,Annalakshmi Drive in,Kotagiri,Tamil Nadu,IN,11.42336,76.86669,1.0,15.0,AC_L2_(7.5-21kW),False
+311595,Lakshmi Retreat,Kotagiri,Tamil Nadu,IN,11.42998,76.86711,1.0,7.4,AC_L1_(<7.5kW),False
+311594,Deccan Park Resort,Ooty,Tamil Nadu,IN,11.39974,76.66623,1.0,7.4,AC_L1_(<7.5kW),False
+311593,Sasthapuri Hotels,Gudalur,Tamil Nadu,IN,11.49862,76.49398,1.0,30.0,AC_HIGH_(22-49kW),False
+311580,OM MADURAI SARAVANA BHAVAN,Thangalacheri,Tamil Nadu,IN,9.78446,78.094274,1.0,30.0,AC_HIGH_(22-49kW),False
+311561,Hotel Star palace,Rameswaram,Tamil Nadu,IN,9.28468,79.29506,1.0,22.0,AC_HIGH_(22-49kW),False
+311560,Tucker Rameswaram,Rameshwaram,Tamil Nadu,IN,9.28616,79.27707,1.0,25.0,AC_HIGH_(22-49kW),False
+311559,Keerthi Residency,Vani,Tamil Nadu,IN,9.35021,78.88531,1.0,7.4,AC_L1_(<7.5kW),False
+311558,MDS Bakery,Ramanathapuram,Tamil Nadu,IN,9.3909,78.8514,1.0,30.0,AC_HIGH_(22-49kW),False
+311557,Bheemas Nalabagam,Ramanathapuram,Tamil Nadu,IN,9.36109,78.84638,1.0,22.0,AC_HIGH_(22-49kW),False
+311556,Hotel Coral Residency,Ramanathapuram,Tamil Nadu,IN,9.35954,78.83801,1.0,7.4,AC_L1_(<7.5kW),False
+311555,Chima Cars,Ramanathapuram,Tamil Nadu,IN,9.36718,78.8099,1.0,25.0,AC_HIGH_(22-49kW),False
+311554,BPCL Manamadurai,ManaMadurai,Tamil Nadu,IN,9.68846,78.44998,1.0,30.0,AC_HIGH_(22-49kW),False
+311553,Bharat Petroleum COCO Pump Thirupuvanam,Tiruppuvanam,Tamil Nadu,IN,9.81293,78.26301,1.0,30.0,AC_HIGH_(22-49kW),False
+311552,Jacks Charging Station,Madurai,Tamil Nadu,IN,9.84301,78.10406,1.0,30.0,AC_HIGH_(22-49kW),False
+311551,Jasmine Filling Station,Madurai,Tamil Nadu,IN,9.84111,78.10481,1.0,30.0,AC_HIGH_(22-49kW),False
+311550,"Amika Hotel, Madurai",Madurai,Tamil Nadu,IN,9.86373,78.12427,1.0,30.0,AC_HIGH_(22-49kW),False
+311549,Ever Power Charging Station,Madurai,Tamil Nadu,IN,9.9017,78.04536,1.0,25.0,AC_HIGH_(22-49kW),False
+311548,The Gateway Hotel Madurai,Madurai,Tamil Nadu,IN,9.89713,78.08755,1.0,30.0,AC_HIGH_(22-49kW),False
+311547,Tucker Motors Private Limited,Madurai,Tamil Nadu,IN,9.91161,78.09279,1.0,30.0,AC_HIGH_(22-49kW),False
+311546,Velammal Hospital and Medical College Parking - 2,Madurai,Tamil Nadu,IN,9.886214,78.151322,1.0,30.0,AC_HIGH_(22-49kW),False
+311545,Velammal Hospital and Medical College Parking - 1,Madurai,Tamil Nadu,IN,9.886238,78.150582,1.0,24.0,AC_HIGH_(22-49kW),False
+311544,Grand Madurai by GRT Hotels,Madurai,Tamil Nadu,IN,9.885732,78.148628,1.0,60.0,DC_FAST_(50-149kW),True
+311543,Regency Madurai by GRT Hotels,Madurai,Tamil Nadu,IN,9.904912,78.096602,1.0,24.0,AC_HIGH_(22-49kW),False
+311542,JC Residency Madurai,Madurai,Tamil Nadu,IN,9.937169,78.132689,1.0,50.0,DC_FAST_(50-149kW),True
+311541,Courtyard by Marriott Madurai,Madurai,Tamil Nadu,IN,9.941092,78.139465,1.0,30.0,AC_HIGH_(22-49kW),False
+311540,Zibe Salem by GRT Hotels,Salem,Tamil Nadu,IN,11.66543,78.14509,1.0,7.4,AC_L1_(<7.5kW),False
+311539,"Kaveri Auto Garage, Madurai",Madurai,Tamil Nadu,IN,9.96434,78.06483,1.0,30.0,AC_HIGH_(22-49kW),False
+311538,"Aras Kia, Nagarai",Nagari,Tamil Nadu,IN,10.0124,78.01737,1.0,75.0,DC_FAST_(50-149kW),True
+311537,Hotel Temple City,Thathampatti,Tamil Nadu,IN,10.07991,77.97778,1.0,50.0,DC_FAST_(50-149kW),True
+311536,Hotel Eden Garden,Pandiarajapuram,Tamil Nadu,IN,10.11237,77.93769,1.0,30.0,AC_HIGH_(22-49kW),False
+311535,Bharat Petroleum e-charge station,Chinnalapatti,Tamil Nadu,IN,10.2998,77.9413,1.0,30.0,AC_HIGH_(22-49kW),False
+311534,Adyar Ananda Bhavan,Dindigul,Tamil Nadu,IN,10.33668,77.95701,1.0,30.0,AC_HIGH_(22-49kW),False
+311532,Hotel PVK Grand,Dindigul,Tamil Nadu,IN,10.3741,77.96772,1.0,25.0,AC_HIGH_(22-49kW),False
+311531,"Kaveri Garage, Seelapadi",Dindugal,Tamil Nadu,IN,10.38031,77.99536,1.0,60.0,DC_FAST_(50-149kW),True
+311530,Vel Saravana bhavan,Dindigul,Tamil Nadu,IN,10.386,77.96756,1.0,60.0,DC_FAST_(50-149kW),True
+311529,Jio BP Dindigul,Thadikombu,Tamil Nadu,IN,10.42633,77.95391,1.0,30.0,AC_HIGH_(22-49kW),False
+311528,A.R. Fuels,Thadikombu,Tamil Nadu,IN,10.42743,77.95434,1.0,30.0,AC_HIGH_(22-49kW),False
+311527,Adyar Ananda Bhavan,Thennilai,Tamil Nadu,IN,10.95696,77.85174,1.0,30.0,AC_HIGH_(22-49kW),False
+311526,Sri Venkateshwara Auto Fuels,Karur,Tamil Nadu,IN,10.90851,78.10009,1.0,30.0,AC_HIGH_(22-49kW),False
+311525,Subbanna Hotel,Karur,Tamil Nadu,IN,10.95773,78.06033,1.0,30.0,AC_HIGH_(22-49kW),False
+311524,The True Saai Works Karur,Karur,Tamil Nadu,IN,10.97867,78.06428,1.0,30.0,AC_HIGH_(22-49kW),False
+311523,11 to 11 Family Restaurant,Karur,Tamil Nadu,IN,11.01223,78.06818,1.0,25.0,AC_HIGH_(22-49kW),False
+311518,Sri Nathi Restaurant,Paramathi,Tamil Nadu,IN,11.17039,78.03892,1.0,25.0,AC_HIGH_(22-49kW),False
+311504,Coastal Grand Hotel,Namakkal,Tamil Nadu,IN,11.23999,78.14177,1.0,30.0,AC_HIGH_(22-49kW),False
+311503,Sri Nathi Restaurant,Pappinayakkanpatti,Tamil Nadu,IN,11.27246,78.16423,1.0,30.0,AC_HIGH_(22-49kW),False
+311502,Jio-BP Namakkal,Namakkal,Tamil Nadu,IN,11.27967,78.16411,1.0,30.0,AC_HIGH_(22-49kW),False
+311501,NEW POESH GARDEN - FAMILY RESTAURANT,Rasipuram,Tamil Nadu,IN,11.44779,78.16161,1.0,60.0,DC_FAST_(50-149kW),True
+311500,Adyar Ananda Bhavan - A2B,Rasipuram,Tamil Nadu,IN,11.49253,78.15367,1.0,60.0,DC_FAST_(50-149kW),True
+311499,Saravana Parottas,Mallur,Tamil Nadu,IN,11.53586,78.14556,1.0,60.0,DC_FAST_(50-149kW),True
+311498,Sai Annapoorna Veg,Santhiyur,Tamil Nadu,IN,11.57838,78.14588,1.0,60.0,DC_FAST_(50-149kW),True
+311497,RRK Hitech Petroleum,Santhiyur,Tamil Nadu,IN,11.57853,78.14611,1.0,60.0,DC_FAST_(50-149kW),True
+311496,Adyar Ananda Bhavan - A2B,Salem,Tamil Nadu,IN,11.61856,78.107,1.0,60.0,DC_FAST_(50-149kW),True
+311495,The True Saai Works Salem,Salem,Tamil Nadu,IN,11.68287,78.12606,1.0,25.0,AC_HIGH_(22-49kW),False
+311494,MG Salem,Salem,Tamil Nadu,IN,11.69299,78.11234,1.0,30.0,AC_HIGH_(22-49kW),False
+311493,Salem RR Biryani,Salem,Tamil Nadu,IN,11.72134,78.07146,1.0,60.0,DC_FAST_(50-149kW),True
+311492,Aasai Aasai Anandha Bhavan,Omalur,Tamil Nadu,IN,11.75299,78.05057,1.0,120.0,DC_FAST_(50-149kW),True
+311491,Anandha Bhavan,Omalur,Tamil Nadu,IN,11.75518,78.05113,1.0,50.0,DC_FAST_(50-149kW),True
+311490,Jio BP Pulse Salem,Pallapatti,Tamil Nadu,IN,11.82426,78.06513,1.0,60.0,DC_FAST_(50-149kW),True
+311489,Annai Ananda Bhavan Restaurant,A.Reddihalli,Tamil Nadu,IN,12.12502,78.13515,1.0,60.0,DC_FAST_(50-149kW),True
+311488,M K Agencies,Kerakodahalli,Tamil Nadu,IN,12.27429,78.197,1.0,60.0,DC_FAST_(50-149kW),True
+311487,Italian Lounge - Cafe 66,Sappanipatti,Tamil Nadu,IN,12.34146,78.21598,1.0,60.0,DC_FAST_(50-149kW),True
+311486,The True Saai Works Krishnagiri,Krishnagiri,Tamil Nadu,IN,12.53084,78.23787,1.0,25.0,AC_HIGH_(22-49kW),False
+311485,Hotel Saravana Bhavan Classic,Krishnagiri,Tamil Nadu,IN,12.55407,78.18823,1.0,60.0,DC_FAST_(50-149kW),True
+311484,Hotel Saravanaa Bhava,Krishnagiri,Tamil Nadu,IN,12.57037,78.17235,1.0,120.0,DC_FAST_(50-149kW),True
+311483,LAVATO - A Premium Lounge,Junjupalli,Tamil Nadu,IN,12.57339,78.16922,1.0,30.0,AC_HIGH_(22-49kW),False
+311482,Hotel Saravanaa Bavaa,Krishnagiri,Tamil Nadu,IN,12.589203,78.143947,1.0,120.0,DC_FAST_(50-149kW),True
+311481,Sree Saravana Bhavan Veg. Treat,Krishnagiri,Tamil Nadu,IN,12.5819,78.15707,1.0,60.0,DC_FAST_(50-149kW),True
+311480,Saravana Bhavan Classic,Sikkarimedu,Tamil Nadu,IN,12.58858,78.14646,1.0,60.0,DC_FAST_(50-149kW),True
+311464,Adyar Ananda Bhavan,Chinnar,Tamil Nadu,IN,12.63869,78.06529,1.0,120.0,DC_FAST_(50-149kW),True
+311463,DSquare Food Hub,Sundagiri,Tamil Nadu,IN,12.64608,78.04741,1.0,24.0,AC_HIGH_(22-49kW),False
+311462,Jio BP Hosur - 2,Nallaganakothapalli,Tamil Nadu,IN,12.67108,77.97997,1.0,60.0,DC_FAST_(50-149kW),True
+311461,Starbucks & KFC Shoolagiri,Shoolagiri,Tamil Nadu,IN,12.6807,77.95265,1.0,60.0,DC_FAST_(50-149kW),True
+311460,Jio BP Hosur,Kamandoddi,Tamil Nadu,IN,12.68784,77.92684,1.0,30.0,AC_HIGH_(22-49kW),False
+311459,Siri Motors,Hosur,Tamil Nadu,IN,12.71462,77.88475,1.0,60.0,DC_FAST_(50-149kW),True
+311458,True Sai Tata,Hosur,Tamil Nadu,IN,12.71741,77.87594,1.0,25.0,AC_HIGH_(22-49kW),False
+311457,Chennai Silks Hosur,Unknown City,Tamil Nadu,IN,12.74717,77.81056,1.0,60.0,DC_FAST_(50-149kW),True
+311456,"Hotel Hills, Hosur",Hosur,Tamil Nadu,IN,12.75413,77.80406,1.0,30.0,AC_HIGH_(22-49kW),False
+311455,Sowmya Fuel Station,Attibele,Karnataka,IN,12.78393,77.75433,1.0,30.0,AC_HIGH_(22-49kW),False
+311454,Electronic City - BPCL,Bengaluru,Karnataka,IN,12.85327,77.6672,1.0,30.0,AC_HIGH_(22-49kW),False
+311453,Monk Mansion,Bengaluru,Karnataka,IN,12.841089,77.664417,2.0,60.0,DC_FAST_(50-149kW),True
+311452,BloomSuites,Bengaluru,Karnataka,IN,12.839685,77.659526,1.0,30.0,AC_HIGH_(22-49kW),False
+311451,Metro Cash&Carry,Bengaluru,Karnataka,IN,12.861066,77.660998,1.0,7.4,AC_L1_(<7.5kW),False
+311450,"Zeon Charging, Sathy",Sathyamangalam,Tamil Nadu,IN,11.489924,77.243692,1.0,24.0,AC_HIGH_(22-49kW),False
+311408,Hotel Masala Suruchi,Marur Handpost,Karnataka,IN,13.059564,77.163172,1.0,60.0,DC_FAST_(50-149kW),True
+311407,Swathi Delicacy,Koppa,Karnataka,IN,12.99504,76.89999,2.0,120.0,DC_FAST_(50-149kW),True
+311285,SRM Eshwari College,Ramapuram Chennai,Tamil Nadu,IN,13.035231,80.195469,1.0,7.2,AC_L1_(<7.5kW),False
+311284,SRM Institute of science and technology,chennai,Tamil Nadu,IN,12.919047,80.282986,1.0,,DC_ULTRA_(>=150kW),True
+309500,Dhanyalakshmi Fuels BPCL,Gundlupete,Karnataka,IN,11.84679,76.67291,1.0,30.0,AC_HIGH_(22-49kW),False
+309484,Maruti Charging Station,Karwar,Karnataka,IN,14.847188,74.135476,1.0,7.2,AC_L1_(<7.5kW),False
+309483,Pearl EV Fast charger,Raichur,Karnataka,IN,16.208165,77.352467,1.0,30.0,AC_HIGH_(22-49kW),False
+309444,SLV Hotel & Family Restaurant,Yadgir,Karnataka,IN,16.749471,77.130118,1.0,30.0,AC_HIGH_(22-49kW),False
+309442,New Sangeeta Gardens Family Restaurant,Sindgi Rural,Karnataka,IN,16.93447,76.26145,1.0,60.0,DC_FAST_(50-149kW),True
+309441,Sri Nisty Pvt,Kalaburgi,Karnataka,IN,17.274606,76.874074,1.0,30.0,AC_HIGH_(22-49kW),False
+309440,Aashirwaad Mangal Karyalay,Kalaburagi,Karnataka,IN,17.32725,76.8678,1.0,60.0,DC_FAST_(50-149kW),True
+309439,Punjabi Dhami Hotel,Sastapur,Karnataka,IN,17.8286,76.90048,1.0,30.0,AC_HIGH_(22-49kW),False
+309438,Hotel BHP-6,Humnabad,Karnataka,IN,17.7726,77.11402,1.0,60.0,DC_FAST_(50-149kW),True
+309437,Hotel 24,Mannaekhelli,Karnataka,IN,17.7392,77.3347,1.0,90.0,DC_FAST_(50-149kW),True
+309436,Vintage Retreat Resort,Chatnalli,Karnataka,IN,17.79618,77.42225,1.0,30.0,AC_HIGH_(22-49kW),False
+309435,Ashoka Village Resort,Sonakanahalli,Karnataka,IN,17.15414,75.79103,1.0,30.0,AC_HIGH_(22-49kW),False
+309427,Bijjargi Motors,Vijayapura,Karnataka,IN,16.849168,75.734976,1.0,30.0,AC_HIGH_(22-49kW),False
+309426,S-Hyper Mart,Vijayapura,Karnataka,IN,16.81325,75.7416,1.0,60.0,DC_FAST_(50-149kW),True
+309425,Tourist Hotel,Managuli,Karnataka,IN,16.664507,75.805005,1.0,60.0,DC_FAST_(50-149kW),True
+309423,MR Residency,Hungund,Karnataka,IN,16.053005,76.065771,1.0,60.0,DC_FAST_(50-149kW),True
+309422,Jio BP Mobility Station,Ilkal,Karnataka,IN,15.99107,76.10002,1.0,60.0,DC_FAST_(50-149kW),True
+309387,"Anand Nagar, Hyderabad",Hyderabad,Telangana,IN,17.0,78.561178,1.0,80.0,DC_FAST_(50-149kW),True
+309370,Hotel Poorvi,Uppaldinni,Karnataka,IN,15.638844,76.220211,1.0,60.0,DC_FAST_(50-149kW),True
+309369,BPCL Bagalkote,Bagalkote,Karnataka,IN,16.18182,75.63617,1.0,30.0,AC_HIGH_(22-49kW),False
+309368,ITC Welcome Hotel,Belagavi,Karnataka,IN,15.92777,74.532332,1.0,60.0,DC_FAST_(50-149kW),True
+309367,OM EV Charging,Mammigatti,Karnataka,IN,15.512047,74.94282,1.0,60.0,DC_FAST_(50-149kW),True
+309357,Jio-BP Mobility Station PD Halli,Hagari,Karnataka,IN,15.14327,77.0632,1.0,60.0,DC_FAST_(50-149kW),True
+309356,Mahindra Bellary Motors,Ballari,Karnataka,IN,15.14016,76.97093,1.0,60.0,DC_FAST_(50-149kW),True
+309355,Bellad Enterprises Pvt Ltd,Ballari,Karnataka,IN,15.1624,76.86862,1.0,30.0,AC_HIGH_(22-49kW),False
+309354,USHA KIRAN SERVICE STATION,Yemmiganur,Andhra Pradesh,IN,15.7612,77.46571,1.0,30.0,AC_HIGH_(22-49kW),False
+309353,Hotel Abode,Mantralayam,Andhra Pradesh,IN,15.94075,77.42351,1.0,30.0,AC_HIGH_(22-49kW),False
+309352,Miracle Dhaba,Bengaluru,Karnataka,IN,13.08468,77.41488,1.0,60.0,DC_FAST_(50-149kW),True
+309351,Lithium Charging Station,Bengaluru,Karnataka,IN,13.014903,77.646205,1.0,30.0,AC_HIGH_(22-49kW),False
+309350,MG Motor B Narayanapura,Bengaluru,Karnataka,IN,12.99577,77.6847,1.0,50.0,DC_FAST_(50-149kW),True
+309349,Trifecta Addatto,Bengaluru,Karnataka,IN,12.994306,77.699295,4.0,60.0,DC_FAST_(50-149kW),True
+309348,Epitome KIA Whitefield,Bengaluru,Karnataka,IN,12.985769,77.708562,1.0,150.0,DC_ULTRA_(>=150kW),True
+309347,BMW Deutsche Motoren,Bengaluru,Karnataka,IN,12.984136,77.708112,1.0,50.0,DC_FAST_(50-149kW),True
+309346,Lithium Urban Tech Pvt Ltd,Bengaluru,Karnataka,IN,12.98306,77.70906,1.0,60.0,DC_FAST_(50-149kW),True
+309345,"Fairfield by Marriott, Mahadevapura",Bengaluru,Karnataka,IN,12.981842,77.708633,1.0,30.0,AC_HIGH_(22-49kW),False
+309344,Prestige Technostar,Bengaluru,Karnataka,IN,12.9726,77.711457,1.0,60.0,DC_FAST_(50-149kW),True
+309343,KHT Brookefield,Bengaluru,Karnataka,IN,12.967124,77.716962,1.0,25.0,AC_HIGH_(22-49kW),False
+309342,JLR Shakti Auto,Bengaluru,Karnataka,IN,12.963582,77.71738,1.0,25.0,AC_HIGH_(22-49kW),False
+309341,goEgo EV CHARGE PARK,Bengaluru,Karnataka,IN,12.96316,77.71814,1.0,60.0,DC_FAST_(50-149kW),True
+309340,"Jio-bp Pulse Hub, Siddhapura",Bengaluru,Karnataka,IN,12.957173,77.729546,1.0,60.0,DC_FAST_(50-149kW),True
+309339,DivyaSree LitBox,Bengaluru,Karnataka,IN,12.97099,77.725024,1.0,60.0,DC_FAST_(50-149kW),True
+309338,Marriott Hotel Whitefield,Bengaluru,Karnataka,IN,12.979262,77.727448,1.0,30.0,AC_HIGH_(22-49kW),False
+309337,Nexus Shantiniketan Jio-BP,Bengaluru,Karnataka,IN,12.98904,77.727584,1.0,60.0,DC_FAST_(50-149kW),True
+309336,Nexus Shantiniketan - Statiq,Bengaluru,Karnataka,IN,12.989066,77.727604,1.0,60.0,DC_FAST_(50-149kW),True
+309335,Sheraton Grand Bengaluru Whitefield Hotel & Convention Center,Bengaluru,Karnataka,IN,12.989215,77.729619,1.0,30.0,AC_HIGH_(22-49kW),False
+309334,Divyasree NR Enclave,Bengaluru,Karnataka,IN,12.986347,77.730384,1.0,60.0,DC_FAST_(50-149kW),True
+309333,Park Square Mall,Bengaluru,Karnataka,IN,12.98728,77.736282,1.0,25.0,AC_HIGH_(22-49kW),False
+309332,Taj Vivanta Whitefield,Bengaluru,Karnataka,IN,12.987202,77.737366,1.0,30.0,AC_HIGH_(22-49kW),False
+309331,The Zinc By Fern Hotels,Bengaluru,Karnataka,IN,12.977576,77.75709,1.0,24.0,AC_HIGH_(22-49kW),False
+309330,Nexus Whitefield Statiq,Bengaluru,Karnataka,IN,12.960076,77.747194,1.0,60.0,DC_FAST_(50-149kW),True
+309329,Nexus Whitefield Jio-BP,Bengaluru,Karnataka,IN,12.960076,77.747194,1.0,60.0,DC_FAST_(50-149kW),True
+309328,Forum South Bengaluru,Bengaluru,Karnataka,IN,12.889192,77.563437,1.0,60.0,DC_FAST_(50-149kW),True
+309320,"Global Mall, Okalipuram",Bengaluru,Karnataka,IN,12.98211,77.56317,1.0,30.0,AC_HIGH_(22-49kW),False
+309319,Freedom Park,Bengaluru,Karnataka,IN,12.97859,77.58139,1.0,25.0,AC_HIGH_(22-49kW),False
+309318,Jio-BP Pulse Varthur Hub,Bengaluru,Karnataka,IN,12.93979,77.73447,18.0,60.0,DC_FAST_(50-149kW),True
+309317,"Jio-BP Pulse Hub, Marathalli",Bengaluru,Karnataka,IN,12.95179,77.70207,1.0,60.0,DC_FAST_(50-149kW),True
+309316,Exora Business Park,Bengaluru,Karnataka,IN,12.94329,77.69229,1.0,60.0,DC_FAST_(50-149kW),True
+309315,Aloft Bengaluru Outer Ring Road,Bengaluru,Karnataka,IN,12.936745,77.694889,1.0,60.0,DC_FAST_(50-149kW),True
+309314,Bellandur Charging Hub,Bengaluru,Karnataka,IN,12.92924,77.70305,1.0,60.0,DC_FAST_(50-149kW),True
+309313,Big Pitcher Sarjapur Road,Bengaluru,Karnataka,IN,12.90986,77.68856,1.0,60.0,DC_FAST_(50-149kW),True
+309312,RMZ Eco World,Bengaluru,Karnataka,IN,12.920994,77.686055,1.0,50.0,DC_FAST_(50-149kW),True
+309311,The Bay at Ecoworld,Bengaluru,Karnataka,IN,12.921004,77.685394,1.0,80.0,DC_FAST_(50-149kW),True
+309310,Courtyard by Marriott,Bengaluru,Karnataka,IN,12.928234,77.682188,1.0,60.0,DC_FAST_(50-149kW),True
+309309,DoubleTree Suites by Hilton Bengaluru Outer Ring Road,Bengaluru,Karnataka,IN,12.919112,77.665155,1.0,60.0,DC_FAST_(50-149kW),True
+309308,Key Motors,Kanakapura,Karnataka,IN,12.57449,77.42937,1.0,25.0,AC_HIGH_(22-49kW),False
+309307,Manikanta Filling Centre BPCL,Harohalli,Karnataka,IN,12.6915,77.47631,1.0,30.0,AC_HIGH_(22-49kW),False
+309306,MG Motor Hosur Road,Bengaluru,Karnataka,IN,12.86563,77.65753,1.0,50.0,DC_FAST_(50-149kW),True
+309305,"Kropex Auto, Hosur Road",Bengaluru,Karnataka,IN,12.87194,77.65095,1.0,25.0,AC_HIGH_(22-49kW),False
+309304,Metropolis Gurukrupa,Bengaluru,Karnataka,IN,12.87544,77.64835,1.0,60.0,DC_FAST_(50-149kW),True
+309303,"More Hypermarket, Hosur Road",Bengaluru,Karnataka,IN,12.88014,77.64592,1.0,60.0,DC_FAST_(50-149kW),True
+309302,"Prerana Motors, Hongasandra",Bengaluru,Karnataka,IN,12.8912,77.63829,1.0,25.0,AC_HIGH_(22-49kW),False
+309301,Pratham Motors,Bengaluru,Karnataka,IN,12.89388,77.65157,1.0,60.0,DC_FAST_(50-149kW),True
+309300,Divija EV charging Station,Bengaluru,Karnataka,IN,12.918011,77.649265,1.0,25.0,AC_HIGH_(22-49kW),False
+309299,"Bengaluru One, Old Airport Road",Bengaluru,Karnataka,IN,12.959251,77.662761,1.0,25.0,AC_HIGH_(22-49kW),False
+309298,KTC Legacy Charging Station,Bangalore,Karnataka,IN,12.945762,77.67413,1.0,60.0,DC_FAST_(50-149kW),True
+309297,Divyashree Greens,Bengaluru,Karnataka,IN,12.952724,77.640852,1.0,60.0,DC_FAST_(50-149kW),True
+309296,Carzonrent,Bengaluru,Karnataka,IN,12.974519,77.621461,1.0,60.0,DC_FAST_(50-149kW),True
+309295,The Park Hotel,Bengaluru,Karnataka,IN,12.973941,77.619889,1.0,30.0,AC_HIGH_(22-49kW),False
+309294,Taj MG Road,Bengaluru,Karnataka,IN,12.973314,77.619578,1.0,30.0,AC_HIGH_(22-49kW),False
+309293,"The Oberoi, Bengaluru",Bengaluru,Karnataka,IN,12.972788,77.618405,1.0,60.0,DC_FAST_(50-149kW),True
+309285,The Pavilion 2,Bengaluru,Karnataka,IN,12.90375,77.60136,1.0,150.0,DC_ULTRA_(>=150kW),True
+309283,Anant Cars Bannerghatta Road,Bengaluru,Karnataka,IN,12.90302,77.60159,1.0,30.0,AC_HIGH_(22-49kW),False
+309281,"Key Motors, Bannerghatta Road",Bengaluru,Karnataka,IN,12.88912,77.59736,1.0,24.0,AC_HIGH_(22-49kW),False
+309279,Royal Meenakshi Mall,Bengaluru,Karnataka,IN,12.8759,77.59583,1.0,60.0,DC_FAST_(50-149kW),True
+309278,"Key Motors, Kanakapura Main Road",Bengaluru,Karnataka,IN,12.90401,77.57358,1.0,25.0,AC_HIGH_(22-49kW),False
+309277,BESCOM Rajarajeshwari Nagar,Bengaluru,Karnataka,IN,12.92905,77.514789,1.0,50.0,DC_FAST_(50-149kW),True
+309274,BESCOM Byatarayanapura,Bengaluru,Karnataka,IN,12.950279,77.540557,1.0,15.0,AC_L2_(7.5-21kW),False
+309273,Welcomhotel Richmond Road,Bengaluru,Karnataka,IN,12.96871,77.614409,1.0,60.0,DC_FAST_(50-149kW),True
+309272,Vivanta by Taj Residency Road,Bengaluru,Karnataka,IN,12.972488,77.608542,1.0,30.0,AC_HIGH_(22-49kW),False
+309271,Forum Rex Walk,Bengaluru,Karnataka,IN,12.972458,77.606851,4.0,30.0,AC_HIGH_(22-49kW),False
+309270,BMW Navnit Motors,Bengaluru,Karnataka,IN,12.972599,77.599081,1.0,24.0,AC_HIGH_(22-49kW),False
+309269,Hotel Southern Star,Bengaluru,Karnataka,IN,12.974727,77.599422,1.0,30.0,AC_HIGH_(22-49kW),False
+309268,Sundaram Motors,Bengaluru,Karnataka,IN,12.973845,77.595979,1.0,90.0,DC_FAST_(50-149kW),True
+309267,JW Marriott,Bengaluru,Karnataka,IN,12.972288,77.594927,1.0,60.0,DC_FAST_(50-149kW),True
+309266,Audi Central,Bengaluru,Karnataka,IN,12.970015,77.600475,1.0,60.0,DC_FAST_(50-149kW),True
+309265,Manjunath Fuel Service-BPCL,Surahonne,Karnataka,IN,14.14024,75.55737,1.0,30.0,AC_HIGH_(22-49kW),False
+309235,Indira Nagar,Ahmednagar,Maharashtra,IN,19.051819,74.723431,2.0,60.0,DC_FAST_(50-149kW),True
+309232,CAFE PARADISE FAMILY RESTAURANT,Ramnagar,Karnataka,IN,15.43437,74.46271,1.0,60.0,DC_FAST_(50-149kW),True
+309231,Arthigamaya Spa & Resort,Gokarna,Karnataka,IN,14.52576,74.31716,1.0,7.0,AC_L1_(<7.5kW),False
+309230,M/S T.S Tawady - BPCL,Siddapur,Karnataka,IN,14.341171,74.890898,1.0,30.0,AC_HIGH_(22-49kW),False
+309229,S.G. Enterprises BPCL,Byndoor,Karnataka,IN,13.85362,74.6304,1.0,30.0,AC_HIGH_(22-49kW),False
+309228,Rajani Fuel Centre,Tallur,Karnataka,IN,13.65205,74.70635,1.0,30.0,AC_HIGH_(22-49kW),False
+309227,Ashitha Enterprises BPCL,Sasthan,Karnataka,IN,13.47826,74.7132,1.0,30.0,AC_HIGH_(22-49kW),False
+309226,Krupa Motors & Fuels,Hebri,Karnataka,IN,13.45598,74.98411,1.0,30.0,AC_HIGH_(22-49kW),False
+309225,"WheelsDrive Charger, Bajagoly",Bajagoly,Karnataka,IN,13.19883,75.06799,1.0,30.0,AC_HIGH_(22-49kW),False
+309224,Vibrant PU College,Mudbidri,Karnataka,IN,13.05771,75.03821,1.0,30.0,AC_HIGH_(22-49kW),False
+309223,Hotel Indraprastha,Baragur,Karnataka,IN,12.941033,76.350643,1.0,60.0,DC_FAST_(50-149kW),True
+309221,Sundaram Motors Mercedes-Benz,Mangaluru,Karnataka,IN,12.86689,74.90518,1.0,60.0,DC_FAST_(50-149kW),True
+309220,"Adishakti Cars, Hebbal",Bengaluru,Karnataka,IN,13.04291,77.60927,1.0,25.0,AC_HIGH_(22-49kW),False
+309190,Sixth Gear Cars,Bengaluru,Karnataka,IN,13.046755,77.591236,1.0,60.0,DC_FAST_(50-149kW),True
+309189,Orion Avenue,Bengaluru,Karnataka,IN,13.001138,77.63254,2.0,60.0,DC_FAST_(50-149kW),True
+309188,Gokulam Grand Hotel & Spa,Bengaluru,Karnataka,IN,13.04204,77.55465,1.0,25.0,AC_HIGH_(22-49kW),False
+309187,Elements Mall,Bengaluru,Karnataka,IN,13.04612,77.6269,3.0,150.0,DC_ULTRA_(>=150kW),True
+309186,Jio BP Charging Hub Chikkagubbi,Bengaluru,Karnataka,IN,13.087848,77.660148,56.0,60.0,DC_FAST_(50-149kW),True
+309185,Jaguar Land Rover Cars Airport Road,Bengaluru,Karnataka,IN,13.11756,77.60923,1.0,50.0,DC_FAST_(50-149kW),True
+309158,Jio BP Chikkajala,Bengaluru,Karnataka,IN,13.16554,77.62933,1.0,60.0,DC_FAST_(50-149kW),True
+309157,Moxy Bengaluru Airport Prestige Tech Cloud,Bengaluru,Karnataka,IN,13.19211,77.64456,1.0,30.0,AC_HIGH_(22-49kW),False
+309156,Click Hotel Sadahalli,Sadahalli,Karnataka,IN,13.19218,77.64652,1.0,30.0,AC_HIGH_(22-49kW),False
+309155,Mulberry Shades Bengaluru Nandi Hills,Devanahally,Karnataka,IN,13.34843,77.68211,1.0,30.0,AC_HIGH_(22-49kW),False
+309154,JW Marriott Bengaluru Prestige Golfshire Resort & Spa,Devanahall,Karnataka,IN,13.31205,77.69087,1.0,30.0,AC_HIGH_(22-49kW),False
+309153,Taj Bangalore,Bengaluru,Karnataka,IN,13.19736,77.71011,1.0,60.0,DC_FAST_(50-149kW),True
+309152,Shell Recharge Devanahalli,Devanahalli,Karnataka,IN,13.24117,77.70313,1.0,120.0,DC_FAST_(50-149kW),True
+309151,GLIDA Charging Hub,Bengaluru,Karnataka,IN,13.18324,77.67608,10.0,60.0,DC_FAST_(50-149kW),True
+309150,GAIL Gas Station -Tata Power,Bengaluru,Karnataka,IN,13.15341,77.72827,1.0,30.0,AC_HIGH_(22-49kW),False
+309149,Orion Uptown Mall,Bengaluru,Karnataka,IN,13.05515,77.7638,1.0,60.0,DC_FAST_(50-149kW),True
+309148,Kia India Training Center,Bengaluru,Karnataka,IN,13.05242,77.74675,1.0,150.0,DC_ULTRA_(>=150kW),True
+309099,ITC Gardenia Bengaluru,Bengaluru,Karnataka,IN,12.96728,77.59552,1.0,30.0,AC_HIGH_(22-49kW),False
+309098,Divyasree Chambers,Bengaluru,Karnataka,IN,12.96192,77.59922,1.0,60.0,DC_FAST_(50-149kW),True
+309097,ibis Bengaluru City Centre,Bengaluru,Karnataka,IN,12.96751,77.5939,1.0,60.0,DC_FAST_(50-149kW),True
+309096,Club Mahindra Madikeri,Madikeri,Karnataka,IN,12.440927,75.71641,1.0,22.0,AC_HIGH_(22-49kW),False
+309095,Hotel Varun Mansion,Boovanahalli,Karnataka,IN,13.00219,76.139602,1.0,60.0,DC_FAST_(50-149kW),True
+309076,Hotel Kadamba Veg,Bengaluru,Karnataka,IN,12.901934,77.46891,1.0,24.0,AC_HIGH_(22-49kW),False
+309070,Bolt.Earth Charging Station,Bharathi Nagara,Karnataka,IN,12.48172,77.03598,1.0,30.0,AC_HIGH_(22-49kW),False
+309069,Nagalakshmi Fuel Station,Mysuru,Karnataka,IN,12.30446,76.70639,1.0,30.0,AC_HIGH_(22-49kW),False
+309068,Adarsh Kia - Mysore,Mysuru,Karnataka,IN,12.30706,76.70759,1.0,90.0,DC_FAST_(50-149kW),True
+309067,The Quorum Hotel,Mysuru,Karnataka,IN,12.31223,76.64067,1.0,7.4,AC_L1_(<7.5kW),False
+309066,Southern Star Mysore,Mysuru,Karnataka,IN,12.31169,76.64328,1.0,60.0,DC_FAST_(50-149kW),True
+309065,"Urs Kar, Krishnamurthy Puram",Mysuru,Karnataka,IN,12.29519,76.6415,1.0,25.0,AC_HIGH_(22-49kW),False
+309064,Hotel Siddharta,Mysuru,Karnataka,IN,12.30853,76.66071,1.0,30.0,AC_HIGH_(22-49kW),False
+309063,Nexus Centre City,Mysuru,Karnataka,IN,12.31857,76.66539,1.0,80.0,DC_FAST_(50-149kW),True
+309062,Ganapati Fuel Station,Mysuru,Karnataka,IN,12.35048,76.63894,1.0,24.0,AC_HIGH_(22-49kW),False
+309061,GRS Fantasy Park,Mysuru,Karnataka,IN,12.35317,76.6357,1.0,60.0,DC_FAST_(50-149kW),True
+309060,Akshaya Motors,Mysuru,Karnataka,IN,12.35941,76.62151,1.0,30.0,AC_HIGH_(22-49kW),False
+309024,Sri Manjunatha Fuel Station,Nelyadi,Karnataka,IN,12.83561,75.39953,1.0,30.0,AC_HIGH_(22-49kW),False
+309023,GL ONE MALL,Puttur,Karnataka,IN,12.76013,75.20645,1.0,30.0,AC_HIGH_(22-49kW),False
+309022,A.R.M Kia,Mangaluru,Karnataka,IN,12.86709,74.90488,1.0,90.0,DC_FAST_(50-149kW),True
+309021,"Cauvery Motors, Mangalore",Mangaluru,Karnataka,IN,12.87213,74.89078,1.0,25.0,AC_HIGH_(22-49kW),False
+309020,St Joseph Service Centre,Mangaluru,Karnataka,IN,12.8591,74.85515,1.0,30.0,AC_HIGH_(22-49kW),False
+309019,Fiza by Nexus Mall,Mangaluru,Karnataka,IN,12.85763,74.83832,1.0,60.0,DC_FAST_(50-149kW),True
+309018,"Vivanta Mangalore, Old Port Road",Mangaluru,Karnataka,IN,12.86212,74.83519,1.0,30.0,AC_HIGH_(22-49kW),False
+309017,"Auto Matrix, Bejai",Mangaluru,Karnataka,IN,12.88567,74.84352,1.0,25.0,AC_HIGH_(22-49kW),False
+309016,Mescom Substation Bejai,Mangaluru,Karnataka,IN,12.88666,74.84176,1.0,25.0,AC_HIGH_(22-49kW),False
+309015,Sowkar M Baba Pai & Co,Mangaluru,Karnataka,IN,12.88807,74.835484,1.0,30.0,AC_HIGH_(22-49kW),False
+309014,MG Motor Jubilant Motors,Mangaluru,Karnataka,IN,12.92394,74.83135,1.0,60.0,DC_FAST_(50-149kW),True
+309013,Ginger Hotel,Mangaluru,Karnataka,IN,12.908462,74.835803,1.0,30.0,AC_HIGH_(22-49kW),False
+308999,Audi Mangaluru,Mangaluru,Karnataka,IN,12.923882,74.829655,1.0,30.0,AC_HIGH_(22-49kW),False
+308998,J B Fuel Station,Mangaluru,Karnataka,IN,12.94023,74.81604,1.0,30.0,AC_HIGH_(22-49kW),False
+308997,Deepak Sales and Services - BPCL Petrol Pump,Panambur,Karnataka,IN,12.94928,74.81044,1.0,30.0,AC_HIGH_(22-49kW),False
+308996,Royal Orchid Central Kireeti,Hosapete,Karnataka,IN,15.28683,76.38577,1.0,60.0,DC_FAST_(50-149kW),True
+308995,HR Motel,Yaragatti,Karnataka,IN,15.9663,75.01014,1.0,60.0,DC_FAST_(50-149kW),True
+308994,Jio-BP Petrol Pump,Chikkalagudda,Karnataka,IN,16.19321,74.518,1.0,60.0,DC_FAST_(50-149kW),True
+308993,Hotel Paradise,Sulgaon,Maharashtra,IN,16.14641,74.21505,1.0,60.0,DC_FAST_(50-149kW),True
+308992,Gogte Plaza,Belagavi,Karnataka,IN,15.928451,74.529038,1.0,60.0,DC_FAST_(50-149kW),True
+308991,RR Mall Belagavi,Belagavi,Karnataka,IN,15.901615,74.521434,1.0,60.0,DC_FAST_(50-149kW),True
+308990,Hotel Ramdev,Belagavi,Karnataka,IN,15.878287,74.515797,1.0,30.0,AC_HIGH_(22-49kW),False
+308989,"UK27 The Fern - An Ecotel Hotel, Belagavi",Belagavi,Karnataka,IN,15.87496,74.51343,1.0,24.0,AC_HIGH_(22-49kW),False
+308988,Pai Resorts,Belagavi,Karnataka,IN,15.867345,74.528684,1.0,30.0,AC_HIGH_(22-49kW),False
+308987,"Manickbag Automobiles, Belagavi",Belagavi,Karnataka,IN,15.8188,74.49224,1.0,25.0,AC_HIGH_(22-49kW),False
+308986,Miraculum Kia,Belagavi,Karnataka,IN,15.80545,74.48541,1.0,90.0,DC_FAST_(50-149kW),True
+308985,BPCL Goral Petroleum,Belagavi,Karnataka,IN,15.83662,74.49365,1.0,30.0,AC_HIGH_(22-49kW),False
+308984,Shri Mahalingeshwar Petroleums,Belagavi,Karnataka,IN,15.80585,74.57531,1.0,30.0,AC_HIGH_(22-49kW),False
+308983,Hotel Gajaraj Palace,Kittur,Karnataka,IN,15.58799,74.78388,1.0,30.0,AC_HIGH_(22-49kW),False
+308982,Nisarga Family Restaurant,Chalageri,Karnataka,IN,14.55971,75.72506,1.0,120.0,DC_FAST_(50-149kW),True
+308981,Raastha Resto Bar,Davanagere,Karnataka,IN,14.44452,75.89139,1.0,60.0,DC_FAST_(50-149kW),True
+308980,Kahaani - The Food Journey,Davanagere,Karnataka,IN,14.44549,75.8911,2.0,60.0,DC_FAST_(50-149kW),True
+308979,Mahindra Mahanth Motors,Davanagere,Karnataka,IN,14.47385,75.88627,1.0,60.0,DC_FAST_(50-149kW),True
+308978,"TSS Super Market, Sirsi",Sirsi,Karnataka,IN,14.624314,74.841555,1.0,30.0,AC_HIGH_(22-49kW),False
+308977,Shiva Hotel,Harihar,Karnataka,IN,14.53811,75.75962,1.0,60.0,DC_FAST_(50-149kW),True
+308976,Adishakti Cars,Davanagere,Karnataka,IN,14.44223,75.95212,1.0,25.0,AC_HIGH_(22-49kW),False
+308975,Hotel Anand Vihar,Hulikere,Karnataka,IN,14.62398,76.46012,1.0,60.0,DC_FAST_(50-149kW),True
+308974,Akshara Pure Veg,Aimangala,Karnataka,IN,14.08641,76.54001,1.0,60.0,DC_FAST_(50-149kW),True
+308973,Purohit Hotel,Hiriyur,Karnataka,IN,14.0521,76.56153,1.0,60.0,DC_FAST_(50-149kW),True
+308972,Dakshin Motors - TATA Service Center,Hiriyur Rural,Karnataka,IN,13.92317,76.64257,1.0,25.0,AC_HIGH_(22-49kW),False
+308971,Hotel Aroma Natural Veg,Javagondnahalli,Karnataka,IN,13.8506,76.73702,1.0,60.0,DC_FAST_(50-149kW),True
+308970,Hotel Aroma Natural Veg,Javagondnahalli,Karnataka,IN,13.84672,76.73602,1.0,30.0,AC_HIGH_(22-49kW),False
+308965,"Sree Auto, Tumkur",Tumakuru,Karnataka,IN,13.34529,77.08027,1.0,30.0,AC_HIGH_(22-49kW),False
+308964,Ghar Ka Khana,Hale Nijagal,Karnataka,IN,13.24891,77.22395,1.0,60.0,DC_FAST_(50-149kW),True
+308953,Deol Punjabi Hotel & Lodge,Kunabev,Karnataka,IN,14.65406,75.56992,1.0,30.0,AC_HIGH_(22-49kW),False
+308951,MG Motor Bellad,Hubballi,Karnataka,IN,15.40827,75.06133,1.0,25.0,AC_HIGH_(22-49kW),False
+308950,Salimath Engineers,Hubballi,Karnataka,IN,15.35533,75.08915,1.0,25.0,AC_HIGH_(22-49kW),False
+308949,Shreya Stellar Mall,Hubballi,Karnataka,IN,15.3593,75.12727,1.0,60.0,DC_FAST_(50-149kW),True
+308946,Sai Ganesh Restaurant,Hubli,Karnataka,IN,15.27878,75.14759,1.0,150.0,DC_ULTRA_(>=150kW),True
+308945,Hotel Panchavati,Munavalli,Karnataka,IN,14.94519,75.25032,1.0,60.0,DC_FAST_(50-149kW),True
+308944,"TSS Super Market, Mundagod",Mundgod,Karnataka,IN,14.97927,75.04431,1.0,30.0,AC_HIGH_(22-49kW),False
+308943,TSS Super market,Yellapur,Karnataka,IN,14.96012,74.71765,1.0,30.0,AC_HIGH_(22-49kW),False
+308942,Hotel Lavender Elite,Honnavar,Karnataka,IN,14.3166,74.42836,1.0,7.0,AC_L1_(<7.5kW),False
+308941,Shreekumar Residency,Honnavar,Karnataka,IN,14.32599,74.42664,1.0,60.0,DC_FAST_(50-149kW),True
+308940,Jyothis Residency,Kollur,Karnataka,IN,13.86534,74.81452,1.0,7.0,AC_L1_(<7.5kW),False
+308939,Hotel Sharada Comforts,Sringeri,Karnataka,IN,13.42865,75.25619,2.0,7.0,AC_L1_(<7.5kW),False
+308938,The Grand Krishna Hotel,Chikkamagaluru,Karnataka,IN,13.32784,75.77365,1.0,7.0,AC_L1_(<7.5kW),False
+308937,Hotel Aadrika,Chikkamagaluru,Karnataka,IN,13.31755,75.77101,1.0,60.0,DC_FAST_(50-149kW),True
+308936,Jio BP Pulse - Mettupalayam,Mettupalayam,Tamil Nadu,IN,11.27928,76.94778,1.0,60.0,DC_FAST_(50-149kW),True
+308935,Adyar Ananda Bhavan,Mettupalayam,Tamil Nadu,IN,11.32163,76.9161,1.0,60.0,DC_FAST_(50-149kW),True
+308934,Wellington Gymkhana Club,Wellington,Tamil Nadu,IN,11.36142,76.79607,1.0,22.0,AC_HIGH_(22-49kW),False
+308933,Gateway Coonoor,Coonoo,Tamil Nadu,IN,11.34605,76.80108,1.0,30.0,AC_HIGH_(22-49kW),False
+308932,"Welcome Heritage Ayatana, Ooty",Muttinadu,Tamil Nadu,IN,11.33652,76.71073,1.0,22.0,AC_HIGH_(22-49kW),False
+308931,"Club Mahindra Resort - Derby Green, Ooty",Ooty,Tamil Nadu,IN,11.4023,76.69714,1.0,22.0,AC_HIGH_(22-49kW),False
+308930,Sterling Ooty - Fern Hill,Ooty,Tamil Nadu,IN,11.39057,76.69866,1.0,60.0,DC_FAST_(50-149kW),True
+308929,Hotel Gem Park,Ooty,Tamil Nadu,IN,11.42074,76.70407,2.0,24.0,AC_HIGH_(22-49kW),False
+308928,"Savoy, Ooty - IHCL SeleQtions",Ooty,Tamil Nadu,IN,11.41494,76.69288,1.0,50.0,DC_FAST_(50-149kW),True
+308927,MC Resort Bandipura,Melukamanahally,Karnataka,IN,11.69692,76.63576,1.0,60.0,DC_FAST_(50-149kW),True
+308926,Vana Vihar Resort Bandipur,Mel Kamanahalli,Karnataka,IN,11.70634,76.64111,1.0,60.0,DC_FAST_(50-149kW),True
+308925,Shivalli Restaurant 1,Channapatna,Karnataka,IN,12.63923,77.14021,1.0,80.0,DC_FAST_(50-149kW),True
+308924,Eagleton The Golf Resort,Bidadi,Karnataka,IN,12.80007,77.41324,1.0,60.0,DC_FAST_(50-149kW),True
+308923,ibis Bengaluru Hosur Road,Bengaluru,Karnataka,IN,12.90073,77.63203,1.0,60.0,DC_FAST_(50-149kW),True
+308922,Blusmart Charging Station (HSR Hub),Bengaluru,Karnataka,IN,12.90212,77.64191,1.0,60.0,DC_FAST_(50-149kW),True
+308921,"La Maison Citroën Hosur Road, Bengaluru",Bengaluru,Karnataka,IN,12.86308,77.65922,1.0,60.0,DC_FAST_(50-149kW),True
+308920,JioBP Pulse Charging Hub - Electronic City Phase II,Bengaluru,Karnataka,IN,12.86462,77.67486,1.0,60.0,DC_FAST_(50-149kW),True
+308919,Jio BP Chandapura,Bengaluru,Karnataka,IN,12.79284,77.72766,1.0,60.0,DC_FAST_(50-149kW),True
+308918,Blusmart Charging Station Electronic City Phase 1,Bengaluru,Karnataka,IN,12.82734,77.65552,1.0,60.0,DC_FAST_(50-149kW),True
+308917,Blusmart Charging Station (Gottigere Hub),Bengaluru,Karnataka,IN,12.85845,77.58721,1.0,60.0,DC_FAST_(50-149kW),True
+308916,Shell Recharge Advaith Hyundai Mysuru,Mysuru,Karnataka,IN,12.34912,76.57168,1.0,60.0,DC_FAST_(50-149kW),True
+308915,Shell Recharge Advaith Hyundai Mangaluru,Mangaluru,Karnataka,IN,12.90145,74.84193,1.0,60.0,DC_FAST_(50-149kW),True
+308914,Shell Recharge Heggeri Dharwad,Belur,Karnataka,IN,15.52849,74.90613,1.0,120.0,DC_FAST_(50-149kW),True
+308913,Shell Recharge Pale,Hubballi,Karnataka,IN,15.240056,75.14345,1.0,120.0,DC_FAST_(50-149kW),True
+308907,Shell Recharge Anekal Road,Naganaikanahalli,Karnataka,IN,12.76356,77.70167,1.0,120.0,DC_FAST_(50-149kW),True
+308906,Shell Recharge Devanahalli,Devanahalli,Karnataka,IN,13.26416,77.71751,1.0,120.0,DC_FAST_(50-149kW),True
+308905,"Shell Recharge, Chandapura",Attibele,Karnataka,IN,12.788407,77.736825,1.0,120.0,DC_FAST_(50-149kW),True
+308904,Shell Recharge Kanakapura Road,Bengaluru,Karnataka,IN,12.86276,77.53146,1.0,120.0,DC_FAST_(50-149kW),True
+308903,Shell Recharge Yelachenahalli,Bengaluru,Karnataka,IN,12.89719,77.57071,1.0,120.0,DC_FAST_(50-149kW),True
+308902,Shell Recharge Gokare Road,Devanahalli,Karnataka,IN,13.23897,77.72394,1.0,120.0,DC_FAST_(50-149kW),True
+308901,Shell Recharge Haralur,Bengaluru,Karnataka,IN,12.91293,77.66542,1.0,120.0,DC_FAST_(50-149kW),True
+308900,Shell Recharge Marathahalli,Bengaluru,Karnataka,IN,12.94285,77.69782,1.0,120.0,DC_FAST_(50-149kW),True
+308899,Shell Recharge Prestige Tech Park,Bengaluru,Karnataka,IN,12.94269,77.69235,1.0,30.0,AC_HIGH_(22-49kW),False
+308898,Shell Recharge Bagmane Solarium,Bengaluru,Karnataka,IN,12.9717,77.7075,1.0,30.0,AC_HIGH_(22-49kW),False
+308897,Shell Recharge Prestige Shantiniketan,Bengaluru,Karnataka,IN,12.992,77.7299,1.0,30.0,AC_HIGH_(22-49kW),False
+308896,Shell Recharge Brookfield,Bengaluru,Karnataka,IN,12.982973,77.708086,1.0,120.0,DC_FAST_(50-149kW),True
+308895,Shell Recharge Avalahalli,Bandapura,Karnataka,IN,13.04041,77.74131,1.0,120.0,DC_FAST_(50-149kW),True
+308894,Shell Recharge Budigere,Unknown City,Karnataka,IN,13.06226,77.74273,1.0,120.0,DC_FAST_(50-149kW),True
+308893,Shell Recharge Mahadeva Kodigehalli,Bengaluru,Karnataka,IN,13.15446,77.70277,1.0,30.0,AC_HIGH_(22-49kW),False
+308891,Shell Recharge Old Madras Road,Bengaluru,Karnataka,IN,12.9923,77.65942,1.0,120.0,DC_FAST_(50-149kW),True
+308890,Shell Recharge TC Palya,Bengaluru,Karnataka,IN,13.02234,77.67867,1.0,120.0,DC_FAST_(50-149kW),True
+308889,Shell Recharge Thanisandra,Bengaluru,Karnataka,IN,13.05367,77.63073,1.0,120.0,DC_FAST_(50-149kW),True
+308888,Shell Recharge Hennur,Bengaluru,Karnataka,IN,13.07536,77.6524,4.0,120.0,DC_FAST_(50-149kW),True
+308886,Shell Recharge Kogilu Road,Bengaluru,Karnataka,IN,13.1043,77.60448,1.0,120.0,DC_FAST_(50-149kW),True
+308885,Shell Yelahanka New Town,Bengaluru,Karnataka,IN,13.098,77.5658,1.0,120.0,DC_FAST_(50-149kW),True
+308883,MG Motor Mysuru,Mysuru,Karnataka,IN,12.3257,76.61038,1.0,60.0,DC_FAST_(50-149kW),True
+308882,Shell Recharge Mandakalli,Gudumadanahalli,Karnataka,IN,12.24523,76.65978,1.0,60.0,DC_FAST_(50-149kW),True
+308881,Shell Recharge Hinkal,Mysuru,Karnataka,IN,12.3279,76.60826,1.0,120.0,DC_FAST_(50-149kW),True
+308879,Highway Star Mall,Vadagur,Karnataka,IN,13.13885,78.20935,2.0,120.0,DC_FAST_(50-149kW),True
+308878,"Aaradhya Grand ""Mulbagal Dosa""",Kolar,Karnataka,IN,13.13522,78.18786,1.0,60.0,DC_FAST_(50-149kW),True
+308877,Hotel Guruprasad Veg,Chitradurga,Karnataka,IN,14.17052,76.47221,1.0,120.0,DC_FAST_(50-149kW),True
+308876,Paakashala Sira,Sira,Karnataka,IN,13.75492,76.88246,10.0,160.0,DC_ULTRA_(>=150kW),True
+308875,Samara's Veg,Bagepalli,Karnataka,IN,13.79204,77.76632,2.0,240.0,DC_ULTRA_(>=150kW),True
+308874,Hotel Nanjundeshwara,Pandithanahalli,Karnataka,IN,13.28586,77.18248,1.0,24.0,AC_HIGH_(22-49kW),False
+308873,Shepra Farms,Kollegala,Karnataka,IN,12.13427,77.07437,1.0,60.0,DC_FAST_(50-149kW),True
+308872,Mulki Sunder Ram Shetty Convention Centre,Mulki,Karnataka,IN,13.06385,74.79791,1.0,60.0,DC_FAST_(50-149kW),True
+308871,Club Mahindra Resort - Virajpet,Virajpet,Karnataka,IN,12.20992,75.73586,2.0,22.0,AC_HIGH_(22-49kW),False
+308862,Hotel Sharadha International,Udupi,Karnataka,IN,13.34939,74.73729,1.0,30.0,AC_HIGH_(22-49kW),False
+308861,Paradise Isle Beach Resort,Udupi,Karnataka,IN,13.36063,74.69908,1.0,7.0,AC_L1_(<7.5kW),False
+308860,Malpe Fish Trade Center,Udupi,Karnataka,IN,13.35205,74.70382,1.0,60.0,DC_FAST_(50-149kW),True
+308859,Kaustubha Residency,Udupi,Karnataka,IN,13.29373,74.74513,1.0,30.0,AC_HIGH_(22-49kW),False
+308837,Wonderla Bengaluru,Bengaluru,Karnataka,IN,12.838006,77.402104,4.0,60.0,DC_FAST_(50-149kW),True
+308819,Poojari’s Nirantara,"Jayapura, Mysuru",Karnataka,IN,12.14124,76.50854,1.0,30.0,AC_HIGH_(22-49kW),False
+308818,"Urs Cars, Hinkal",Mysuru,Karnataka,IN,12.32742,76.60886,1.0,60.0,DC_FAST_(50-149kW),True
+308817,"Urs Kar Service Centre Pvt Ltd, Hebbal",Mysuru,Karnataka,IN,12.35354,76.61858,1.0,30.0,AC_HIGH_(22-49kW),False
+308816,Ibis Styles Mysuru,Mysuru,Karnataka,IN,12.35753,76.62834,1.0,60.0,DC_FAST_(50-149kW),True
+308815,Grand Mercure Mysore,Mysuru,Karnataka,IN,12.3307,76.64479,2.0,120.0,DC_FAST_(50-149kW),True
+308814,Mall Of Mysore,Mysuru,Karnataka,IN,12.2977,76.66446,1.0,60.0,DC_FAST_(50-149kW),True
+308813,Metropolis Gurukrupa Apartment,Bengaluru,Karnataka,IN,12.87479,77.64694,1.0,7.4,AC_L1_(<7.5kW),False
+308812,RMZ EcoWorld,Bengaluru,Karnataka,IN,12.92542,77.68788,1.0,50.0,DC_FAST_(50-149kW),True
+308811,Novotel Bengaluru Outer Ring Road,Bengaluru,Karnataka,IN,12.9299,77.68317,1.0,22.0,AC_HIGH_(22-49kW),False
+308810,Kabra Excelsior,Bengaluru,Karnataka,IN,12.92786,77.63306,1.0,50.0,DC_FAST_(50-149kW),True
+308809,Nexus Mall Koramangala,Bengaluru,Karnataka,IN,12.93484,77.6118,1.0,24.0,AC_HIGH_(22-49kW),False
+308808,Grand Mercure Bengaluru,Bengaluru,Karnataka,IN,12.99267,77.66117,1.0,22.0,AC_HIGH_(22-49kW),False
+308807,RMZ Infinity,Bengaluru,Karnataka,IN,12.99365,77.66045,1.0,60.0,DC_FAST_(50-149kW),True
+308806,RMZ MILLENIA,Bengaluru,Karnataka,IN,12.98247,77.62461,1.0,24.0,AC_HIGH_(22-49kW),False
+308805,Radisson Bengaluru City Center,Bengaluru,Karnataka,IN,12.97622,77.61948,1.0,22.0,AC_HIGH_(22-49kW),False
+308804,The Rialto Hotel,Bengaluru,Karnataka,IN,12.98026,77.57661,1.0,7.0,AC_L1_(<7.5kW),False
+308803,GT World Mall,Bengaluru,Karnataka,IN,12.97396,77.55157,1.0,22.0,AC_HIGH_(22-49kW),False
+308802,Sheraton Grand Bangalore Hotel at Brigade Gateway,Bengaluru,Karnataka,IN,13.01275,77.55504,1.0,30.0,AC_HIGH_(22-49kW),False
+308801,Orion Brigade Gateway,Bengaluru,Karnataka,IN,13.01105,77.55471,2.0,60.0,DC_FAST_(50-149kW),True
+308800,Orion Mall Outside,Bengaluru,Karnataka,IN,13.009553,77.554611,4.0,30.0,AC_HIGH_(22-49kW),False
+308799,"Prerana Motors, Rajaji Nagar",Bengaluru,Karnataka,IN,12.99935,77.54971,1.0,25.0,AC_HIGH_(22-49kW),False
+308798,Taj Yeshwantpur,Bengaluru,Karnataka,IN,13.028822,77.540322,2.0,30.0,AC_HIGH_(22-49kW),False
+308795,IKEA Bengaluru,Bengaluru,Karnataka,IN,13.04917,77.49967,3.0,7.2,AC_L1_(<7.5kW),False
+308792,SS CoCo Nest Luxury Service Apartments,Chikkamagaluru,Karnataka,IN,13.31559,75.79555,2.0,7.4,AC_L1_(<7.5kW),False
+308791,"Sree Auto, Tiptur",Tiptur,Karnataka,IN,13.26252,76.49317,1.0,30.0,AC_HIGH_(22-49kW),False
+308790,KTC Hotel,Rajathadripura,Karnataka,IN,13.31672,76.68119,1.0,60.0,DC_FAST_(50-149kW),True
+308783,Paakashala @ TBegur,TBegur,Karnataka,IN,13.15172,77.33795,3.0,200.0,DC_ULTRA_(>=150kW),True
+308782,Saviruchi Veg,Malavalli,Karnataka,IN,12.38494,77.05314,1.0,30.0,AC_HIGH_(22-49kW),False
+308781,The Rove Kodagu,Napoklu,Karnataka,IN,12.30143,75.67671,1.0,60.0,DC_FAST_(50-149kW),True
+308780,Ambatty Greens Resort,Virajpet,Karnataka,IN,12.18228,75.828,2.0,25.0,AC_HIGH_(22-49kW),False
+308779,Kodagu Planter's Club,Gonikoppa,Karnataka,IN,12.18078,75.91345,2.0,60.0,DC_FAST_(50-149kW),True
+308778,Taj Madikeri Resort & Spa,Madikeri,Karnataka,IN,12.44606,75.68499,1.0,30.0,AC_HIGH_(22-49kW),False
+308777,Church Side Bar & Restuarant,Madikeri,Karnataka,IN,12.41887,75.74048,2.0,25.0,AC_HIGH_(22-49kW),False
+308776,Tata Motors - URS KAR,Guddehosuru,Karnataka,IN,12.44616,75.93032,2.0,60.0,DC_FAST_(50-149kW),True
+308775,Purple Palms Resort & Spa,Kushalnagar,Karnataka,IN,12.44734,75.93211,1.0,24.0,AC_HIGH_(22-49kW),False
+308774,Siri Ambari Resorts and Spa,Manchadevanahalli,Karnataka,IN,12.40038,76.01705,2.0,60.0,DC_FAST_(50-149kW),True
+308773,Hotel Four Seasons,Kundanahalli,Karnataka,IN,12.38309,76.03155,2.0,60.0,DC_FAST_(50-149kW),True
+308763,Udupi Utsav,Sundahalli,Karnataka,IN,12.50535,76.83215,1.0,60.0,DC_FAST_(50-149kW),True
+308762,Siri Restaurant,Mathikere,Karnataka,IN,12.639274,77.139907,2.0,60.0,DC_FAST_(50-149kW),True
+308761,Hotel Indradhanush,Channapatna,Karnataka,IN,12.6396,77.14106,1.0,60.0,DC_FAST_(50-149kW),True
+308760,Shivalli Chowki Restaurant,Channapatna,Karnataka,IN,12.63923,77.14023,1.0,30.0,AC_HIGH_(22-49kW),False
+308759,SM Infra Foods,Channapatna,Karnataka,IN,12.64316,77.15675,1.0,60.0,DC_FAST_(50-149kW),True
+308758,KEVAL Charging Station,Bengaluru,Karnataka,IN,13.0001,77.52435,2.0,25.0,AC_HIGH_(22-49kW),False
+308757,Renaissance Bengaluru Race Course Hotel,Bengaluru,Karnataka,IN,12.98439,77.57639,1.0,60.0,DC_FAST_(50-149kW),True
+308734,Shell Recharge Yeshwantpur,Bengaluru,Karnataka,IN,13.02499,77.54759,5.0,120.0,DC_FAST_(50-149kW),True
+308733,VST Central KIA,Bengaluru,Karnataka,IN,13.05335,77.50798,1.0,150.0,DC_ULTRA_(>=150kW),True
+308732,Jio BP Pulse,Bengaluru,Karnataka,IN,12.98931,77.50062,2.0,60.0,DC_FAST_(50-149kW),True
+308731,Shell Recharge Mysore Road,Bengaluru,Karnataka,IN,12.94696,77.53247,5.0,120.0,DC_FAST_(50-149kW),True
+308730,Gateway by Taj,Chikkamagaluru,Karnataka,IN,13.33696,75.81749,1.0,25.0,AC_HIGH_(22-49kW),False
+308729,Grower's Cafe,Cheekanahalli,Karnataka,IN,13.10898,75.74099,1.0,30.0,AC_HIGH_(22-49kW),False
+308728,Audi Service Center,Verna,Goa,IN,15.36121,73.95358,1.0,60.0,DC_FAST_(50-149kW),True
+308727,1930 Vasco Mall,Vasco Da Gama,Goa,IN,15.39724,73.81304,1.0,60.0,DC_FAST_(50-149kW),True
+308726,Magsons Supermarket,Vasco Da Gama,Goa,IN,15.38793,73.86319,1.0,30.0,AC_HIGH_(22-49kW),False
+308725,Royal Orchid Beach Resort & Spa,Utorda,Goa,IN,15.3203,73.90176,1.0,60.0,DC_FAST_(50-149kW),True
+308724,Fortune Resort Benaulim,Benaulim,Goa,IN,15.24629,73.92976,1.0,30.0,AC_HIGH_(22-49kW),False
+308723,The St. Regis Resort,Cavelossim,Goa,IN,15.154127,73.951178,1.0,60.0,DC_FAST_(50-149kW),True
+308722,Hotel Elite,Mallinathapura,Karnataka,IN,12.3459,76.43309,1.0,60.0,DC_FAST_(50-149kW),True
+308721,Hotel Ankola International,Ankola,Karnataka,IN,14.666674,74.312212,1.0,60.0,DC_FAST_(50-149kW),True
+308719,Hotel Sagar Residency,Honnavar,Karnataka,IN,14.290073,74.462795,1.0,60.0,DC_FAST_(50-149kW),True
+308716,Shrreyas Inn Hemmadi,Kundapura,Karnataka,IN,13.632721,74.700461,1.0,60.0,DC_FAST_(50-149kW),True
+308715,Manipal INN,Udupi,Karnataka,IN,13.350363,74.736959,1.0,60.0,DC_FAST_(50-149kW),True
+308714,Hotel K1,Kaup,Karnataka,IN,13.225674,74.748624,1.0,60.0,DC_FAST_(50-149kW),True
+308713,Ayodhya pure veg,Karkala,Karnataka,IN,13.194584,74.998946,1.0,30.0,AC_HIGH_(22-49kW),False
+308711,Hotel Birwa Nelyadi,Nelyadi,Karnataka,IN,12.833854,75.413355,1.0,60.0,DC_FAST_(50-149kW),True
+308708,Hotel Aditya View,Nidle,Karnataka,IN,12.931223,75.407105,1.0,24.0,AC_HIGH_(22-49kW),False
+308679,Kengeri Charging Hub,Bengaluru,Karnataka,IN,12.905517,77.47375,4.0,75.0,DC_FAST_(50-149kW),True
+308678,Akshaya Motors Mercedes-Benz,Bengaluru,Karnataka,IN,12.923963,77.497208,1.0,90.0,DC_FAST_(50-149kW),True
+308663,MEI EV charging hub,Bengaluru,Karnataka,IN,13.026816,77.542613,1.0,30.0,AC_HIGH_(22-49kW),False
+308662,Shell Recharge Tumkur Road,Bengaluru,Karnataka,IN,13.046726,77.50216,1.0,120.0,DC_FAST_(50-149kW),True
+308661,Jio BP Nelamangala,Arasinakunte,Karnataka,IN,13.086525,77.408473,1.0,60.0,DC_FAST_(50-149kW),True
+308660,Hana Impireal 75 Restaurant,Kunigal,Karnataka,IN,13.033113,77.087145,1.0,30.0,AC_HIGH_(22-49kW),False
+308659,Hotel Empire Kunigal,Kunigal,Karnataka,IN,12.997771,76.924169,1.0,120.0,DC_FAST_(50-149kW),True
+308658,Paakashala @ Yediyur,Kunigal,Karnataka,IN,12.99024,76.881823,1.0,60.0,DC_FAST_(50-149kW),True
+308657,Hotel Mayur Veg,Kunigal,Karnataka,IN,12.988038,76.874646,1.0,24.0,AC_HIGH_(22-49kW),False
+308656,Dharnika Comforts Bar & Family Restaurant,Yediyuru,Karnataka,IN,12.987621,76.873329,1.0,60.0,DC_FAST_(50-149kW),True
+308655,Hotel Vaishali,Yediyur,Karnataka,IN,12.976021,76.82832,1.0,25.0,AC_HIGH_(22-49kW),False
+308650,Mtr 1924,Nagamangala,Karnataka,IN,12.970104,76.801686,1.0,150.0,DC_ULTRA_(>=150kW),True
+308649,Hotel Harsha Grand,Nagamangala,Karnataka,IN,12.966355,76.788373,6.0,60.0,DC_FAST_(50-149kW),True
+308648,Cafe Coffee Day,Bellur,Karnataka,IN,12.96238,76.749119,1.0,50.0,DC_FAST_(50-149kW),True
+308647,"Auto Matrix, Tata Motors",Hassan,Karnataka,IN,12.995358,76.079775,1.0,30.0,AC_HIGH_(22-49kW),False
+308646,Surabhi's Delicacy,Bage,Karnataka,IN,12.956012,75.850318,1.0,25.0,AC_HIGH_(22-49kW),False
+308645,Hotel Shiv Surya,Heddurga,Karnataka,IN,12.956363,75.917309,1.0,120.0,DC_FAST_(50-149kW),True
+308643,Hotel Sky Birds,Ranganathapura,Karnataka,IN,12.986922,76.205989,8.0,200.0,DC_ULTRA_(>=150kW),True
+308366,Aryaas Pure Veg,Unknown City,Tamil Nadu,IN,12.90702,78.9619,3.0,50.0,DC_FAST_(50-149kW),True
+308365,Cafe Coffee Day,Chennai,Tamil Nadu,IN,12.888168,78.879632,5.0,360.0,DC_ULTRA_(>=150kW),True
+308058,Vijaya Power Charging Station 60 + 60 kW,Shirwal,Maharashtra,IN,18.157327,73.960178,4.0,120.0,DC_FAST_(50-149kW),True
+308057,Hotel Madhuban EV Charging Station,Amboli,Maharashtra,IN,16.002657,74.043575,2.0,60.0,DC_FAST_(50-149kW),True
+308043,Vikaya Power Solutions,Shirwal,Maharashtra,IN,18.272046,73.853272,4.0,60.0,DC_FAST_(50-149kW),True
+308042,Hotel Madhuban EV Charging Station,Amboli,Maharashtra,IN,16.002622,74.043493,2.0,60.0,DC_FAST_(50-149kW),True
+307912,Vijata Power Charging Station 60 kW,Toap,Maharashtra,IN,16.782334,74.278181,3.0,60.0,DC_FAST_(50-149kW),True
+307911,Vijaya Power Charging Station 60 Kw + 30 Kw,Kolhapur,Maharashtra,IN,16.703369,74.250457,3.0,60.0,DC_FAST_(50-149kW),True
+307481,Powerbank Charging Station,Chandigarh,Punjab,IN,30.70254,76.729553,1.0,50.0,DC_FAST_(50-149kW),True
+307480,Tata Power Charging Station,Chandigarh,Haryana,IN,30.7004,76.789585,2.0,50.0,DC_FAST_(50-149kW),True
+307469,Hotel Golden hut,Kurukshetra,Haryana,IN,29.94598,76.899404,3.0,150.0,DC_ULTRA_(>=150kW),True
+307468,"Golden Hut, Dera Bassi",Gholu Majra,Punjab,IN,30.544473,76.821536,2.0,30.0,AC_HIGH_(22-49kW),False
+307467,The Gillz-Hotel & Restaurant,Ambala,Haryana,IN,30.282709,77.012754,2.0,30.0,AC_HIGH_(22-49kW),False
+307466,BHEL Charging Station,Kurukshetra,Haryana,IN,29.975158,76.891809,4.0,50.0,DC_FAST_(50-149kW),True
+307465,Haryana Tourism Resort,Uchana,Haryana,IN,29.745073,76.972687,2.0,50.0,DC_FAST_(50-149kW),True
+307464,Statiq Charging Station,Karnal,Haryana,IN,29.726906,76.978632,1.0,30.0,AC_HIGH_(22-49kW),False
+307463,Tata Power Charging Station,Sonipat,Haryana,IN,29.157943,77.035866,1.0,25.0,AC_HIGH_(22-49kW),False
+307462,Tata Power Charging Station,Sonipat,Haryana,IN,29.004736,77.032644,2.0,25.0,AC_HIGH_(22-49kW),False
+307460,Anantam Clubs & Resorts,Gandhinagar,Gujarat,IN,23.338355,72.70008,2.0,30.0,AC_HIGH_(22-49kW),False
+307459,"Laxura Restaurant, Banquet & Rooms",Mandali,Gujarat,IN,23.428885,72.394159,2.0,30.0,AC_HIGH_(22-49kW),False
+307458,Tectonic Power Charging Station,Baliyasan,Gujarat,IN,23.446523,72.39375,2.0,30.0,AC_HIGH_(22-49kW),False
+307457,Kesar Hotel & Restaurant,Viramgam,Gujarat,IN,23.091109,72.030014,2.0,30.0,AC_HIGH_(22-49kW),False
+307456,Hotel Decent,Unava,Gujarat,IN,23.751381,72.366972,2.0,30.0,AC_HIGH_(22-49kW),False
+307455,HOTEL LAGOON PARK,Palanpur,Gujarat,IN,24.065471,72.393312,2.0,30.0,AC_HIGH_(22-49kW),False
+307454,Ramee Royal Resort & Spa,Udaipur,Rajasthan,IN,24.49439,73.656474,4.0,30.0,AC_HIGH_(22-49kW),False
+307453,Hotel Raj Palace,Nimbahera,Rajasthan,IN,24.59119,74.696859,2.0,30.0,AC_HIGH_(22-49kW),False
+307452,Chitrakoot Resorts and Restaurant,Chittorgarh,Rajasthan,IN,24.834306,74.569742,4.0,30.0,AC_HIGH_(22-49kW),False
+307382,Tata Power Charging Station,Ajmer,Rajasthan,IN,26.426093,74.681438,2.0,50.0,DC_FAST_(50-149kW),True
+307381,Xobolt Charging Station,Tolamal,Rajasthan,IN,26.593029,74.927095,2.0,30.0,AC_HIGH_(22-49kW),False
+307380,Volttic Charging Station,Mozamabad,Rajasthan,IN,26.746037,75.321425,2.0,30.0,AC_HIGH_(22-49kW),False
+307379,Statiq Charging Station,Jaipur,Rajasthan,IN,26.807015,75.64265,2.0,30.0,AC_HIGH_(22-49kW),False
+307378,Xobolt Charging Station,Thegda,Rajasthan,IN,25.160057,75.881763,2.0,30.0,AC_HIGH_(22-49kW),False
+307376,Statiq Charging Station,Bijolia,Rajasthan,IN,25.14772,75.324367,2.0,30.0,AC_HIGH_(22-49kW),False
+307296,Tata Power Vehicle Charging Station,Sambhra,Rajasthan,IN,25.932108,72.226824,2.0,30.0,AC_HIGH_(22-49kW),False
+307295,Xobolt Charging Station,Jodhpur,Rajasthan,IN,26.261765,73.00008,2.0,30.0,AC_HIGH_(22-49kW),False
+307294,Statiq Charging Station,Jodhpur,Rajasthan,IN,26.317608,72.868561,1.0,30.0,AC_HIGH_(22-49kW),False
+307293,Xobolt Charging Station,Bhamatsar,Rajasthan,IN,27.667036,73.368207,2.0,30.0,AC_HIGH_(22-49kW),False
+307292,Jio-BP pulse,Bikaner,Rajasthan,IN,28.026865,73.264094,2.0,30.0,AC_HIGH_(22-49kW),False
+307291,Tata Power Charging Station,Ratangarh,Rajasthan,IN,28.056081,74.604267,2.0,30.0,AC_HIGH_(22-49kW),False
+307290,Xobolt Charging Station,Jaipur,Rajasthan,IN,27.679819,75.091262,2.0,30.0,AC_HIGH_(22-49kW),False
+307288,GLIDA Charging Station,Neemrana,Rajasthan,IN,27.978349,76.400486,1.0,30.0,AC_HIGH_(22-49kW),False
+307284,Xobolt Charging Station,Parasrampura,Rajasthan,IN,27.345804,75.602122,2.0,30.0,AC_HIGH_(22-49kW),False
+307283,AARGO EV Charging Station,Reengus,Rajasthan,IN,27.342292,75.602684,1.0,25.0,AC_HIGH_(22-49kW),False
+307282,Statiq Charging Station,Shahpura,Rajasthan,IN,27.488589,76.052866,2.0,30.0,AC_HIGH_(22-49kW),False
+307281,Volttic Charging Station,Jodhpura,Rajasthan,IN,27.287328,76.773232,2.0,30.0,AC_HIGH_(22-49kW),False
+307151,"MobiLane Charging Station, Jamanagar",Vasai,Gujarat,IN,22.437681,69.963374,2.0,40.0,AC_HIGH_(22-49kW),False
+307150,MobiLane Charging Station,Samalaji,Gujarat,IN,23.654372,73.316787,2.0,40.0,AC_HIGH_(22-49kW),False
+307149,Statiq Charging Station,Udaipur,Rajasthan,IN,24.594579,73.768708,1.0,30.0,AC_HIGH_(22-49kW),False
+307148,Tata Power Charging Station,Vallabhnagar,Rajasthan,IN,24.61225,74.072816,1.0,30.0,AC_HIGH_(22-49kW),False
+307147,NEEL-GAGAN PUNJABI DHABA,Shishod,Rajasthan,IN,23.9319,73.568555,2.0,30.0,AC_HIGH_(22-49kW),False
+307146,Hotel Atithi Palace,Badla,Rajasthan,IN,23.959043,73.581657,2.0,30.0,AC_HIGH_(22-49kW),False
+307145,Hotel Green Plaza,Hamirgarh,Rajasthan,IN,25.152314,74.623213,2.0,30.0,AC_HIGH_(22-49kW),False
+307144,HFM - Highway Food Mall,Limbdi,Gujarat,IN,22.567181,71.774189,2.0,30.0,AC_HIGH_(22-49kW),False
+307143,Honest Restaurant- Amardeep food court,Kedariya,Gujarat,IN,23.006253,71.085909,2.0,30.0,AC_HIGH_(22-49kW),False
+307141,Hotel Choudhary Place,Pindwara,Rajasthan,IN,24.757759,73.019977,2.0,30.0,AC_HIGH_(22-49kW),False
+307140,Hotel Tiranga,Roopaheli,Rajasthan,IN,25.779833,74.623868,2.0,30.0,AC_HIGH_(22-49kW),False
+307139,Novotel Jaipur Convention Centre,Jaipur,Rajasthan,IN,26.781056,75.826832,2.0,30.0,AC_HIGH_(22-49kW),False
+307137,Jaipur Marriott Hotel,Jaipur,Rajasthan,IN,26.842027,75.7963,2.0,30.0,AC_HIGH_(22-49kW),False
+307136,JCR - The Entertainment World,Jamnagar,Gujarat,IN,22.445355,70.116655,2.0,30.0,AC_HIGH_(22-49kW),False
+307135,Hotel Express Highway,Behror,Rajasthan,IN,27.857417,76.265725,2.0,30.0,AC_HIGH_(22-49kW),False
+307134,"Hotel Highway Express, Delhi Side",Behror,Rajasthan,IN,27.874214,76.276307,2.0,30.0,AC_HIGH_(22-49kW),False
+307133,Courtyard by Marriott Aravali Resort,Faridabad,Haryana,IN,28.37164,77.210529,2.0,30.0,AC_HIGH_(22-49kW),False
+307132,The Westin Sohna Resort and Spa,Sohna,Haryana,IN,28.237238,77.150387,2.0,30.0,AC_HIGH_(22-49kW),False
+307131,Fortune Park Orange,Gurugram,Haryana,IN,28.249526,76.817011,2.0,30.0,AC_HIGH_(22-49kW),False
+307111,Sarhol Charging Hub,Unknown City,Haryana,IN,28.48757,77.073321,6.0,30.0,AC_HIGH_(22-49kW),False
+307110,Le Meridien,Gurgaon,Haryana,IN,28.480172,77.108378,2.0,30.0,AC_HIGH_(22-49kW),False
+307109,Courtyard by Marriott,Gurgaon,Haryana,IN,28.460598,77.080664,2.0,30.0,AC_HIGH_(22-49kW),False
+307108,Hotel Westinn,Gurgaon,Haryana,IN,28.476847,77.070676,2.0,30.0,AC_HIGH_(22-49kW),False
+307107,Hotel Pullman,New Delhi,Delhi,IN,28.553361,77.123616,2.0,30.0,AC_HIGH_(22-49kW),False
+307106,Le Méridien,New Delhi,Delhi,IN,28.618401,77.217836,2.0,30.0,AC_HIGH_(22-49kW),False
+307105,"Mercedes Benz Silver Arrows, Noida",Noida,Uttar Pradesh,IN,28.596229,77.330625,2.0,90.0,DC_FAST_(50-149kW),True
+307102,Andheri West,Mumbai,Maharashtra,IN,19.1166,72.82927,1.0,120.0,DC_FAST_(50-149kW),True
+307035,Statiq Charging Station,New Delhi,Delhi,IN,28.544769,77.186145,2.0,60.0,DC_FAST_(50-149kW),True
+307034,Statiq Charging Station,Unknown City,Delhi,IN,28.513197,77.186071,1.0,60.0,DC_FAST_(50-149kW),True
+307033,Statiq Charging Station,New Delhi,Delhi,IN,28.561322,77.269668,2.0,60.0,DC_FAST_(50-149kW),True
+307032,Statiq Charging Station,Faridabad,Haryana,IN,28.459093,77.306397,2.0,60.0,DC_FAST_(50-149kW),True
+307031,Statiq Charging Station,"Badarpur, New Delhi",Delhi,IN,28.518732,77.294795,2.0,60.0,DC_FAST_(50-149kW),True
+307030,Savoy Suites Charging Station,Noida,Uttar Pradesh,IN,28.464613,77.508467,2.0,120.0,DC_FAST_(50-149kW),True
+307029,MLCP Zone3 Captive Charging Station,Noida,Uttar Pradesh,IN,28.569917,77.322085,2.0,120.0,DC_FAST_(50-149kW),True
+307028,Berger Tower Charging Station,Noida,Uttar Pradesh,IN,28.574544,77.313483,2.0,120.0,DC_FAST_(50-149kW),True
+307027,EESL Charging Station,Noida,Uttar Pradesh,IN,28.587968,77.352087,1.0,22.0,AC_HIGH_(22-49kW),False
+306986,EESL Charging Station,Unknown City,Delhi,IN,28.583695,77.222226,1.0,15.0,AC_L2_(7.5-21kW),False
+306985,EESL Charging Station,Unknown City,Delhi,IN,28.633916,77.217594,1.0,15.0,AC_L2_(7.5-21kW),False
+306984,EESL Charging Station,Unknown City,Delhi,IN,28.631607,77.221927,1.0,15.0,AC_L2_(7.5-21kW),False
+306983,EESL Charging Station,Unknown City,Delhi,IN,28.63359,77.223554,1.0,15.0,AC_L2_(7.5-21kW),False
+306982,EESL Charging Station,Unknown City,Delhi,IN,28.634997,77.219672,1.0,15.0,AC_L2_(7.5-21kW),False
+306981,EESL Charging Station,Unknown City,Delhi,IN,28.601894,77.186212,1.0,15.0,AC_L2_(7.5-21kW),False
+306980,GTB Nagar Metro Station Parking,Unknown City,Delhi,IN,28.699036,77.203992,4.0,60.0,DC_FAST_(50-149kW),True
+306979,Hans Resorts,Rewari,Haryana,IN,28.125637,76.638064,1.0,60.0,DC_FAST_(50-149kW),True
+306978,Subway,Bhiwadi,Rajasthan,IN,28.201921,76.809537,1.0,60.0,DC_FAST_(50-149kW),True
+306977,Bikanerwala,Gurugram,Haryana,IN,28.323268,76.901139,1.0,30.0,AC_HIGH_(22-49kW),False
+306976,Krishna Valley Vrindavan,Unknown City,Uttar Pradesh,IN,27.575292,77.614531,1.0,7.0,AC_L1_(<7.5kW),False
+306975,Kosi Gulshan Dhaba,Unknown City,Uttar Pradesh,IN,27.829224,77.421066,1.0,30.0,AC_HIGH_(22-49kW),False
+306974,Haldiram,Unknown City,Uttar Pradesh,IN,27.824118,77.425613,1.0,25.0,AC_HIGH_(22-49kW),False
+306973,Asli Pappu Dhaba (2),Unknown City,Uttar Pradesh,IN,27.823974,77.4252,2.0,60.0,DC_FAST_(50-149kW),True
+306972,Asli Pappu Dhaba,Unknown City,Uttar Pradesh,IN,27.816316,77.427631,1.0,24.0,AC_HIGH_(22-49kW),False
+306971,Golden Galaxy Hotels & Resorts,Unknown City,Haryana,IN,28.2894,77.296641,1.0,50.0,DC_FAST_(50-149kW),True
+306970,Powerbank Ghitorni Metro Station Parking Area,Unknown City,Delhi,IN,28.492717,77.148441,1.0,25.0,AC_HIGH_(22-49kW),False
+306969,Qutab Minar Metro Station,Unknown City,Delhi,IN,28.514138,77.186811,4.0,7.0,AC_L1_(<7.5kW),False
+306968,ITC Maurya,Unknown City,Delhi,IN,28.597342,77.173183,2.0,7.0,AC_L1_(<7.5kW),False
+306967,EESL Charging Station,Unknown City,Delhi,IN,28.600694,77.226158,1.0,22.0,AC_HIGH_(22-49kW),False
+306953,TML Autovikas,Faridabad,Haryana,IN,28.36286,77.314811,1.0,30.0,AC_HIGH_(22-49kW),False
+306952,FBD ONE CORPORATION PARK,Faridabad,Haryana,IN,28.488169,77.305773,10.0,30.0,AC_HIGH_(22-49kW),False
+306951,Moolchand Metro Station,Unknown City,Delhi,IN,28.56437,77.23404,4.0,60.0,DC_FAST_(50-149kW),True
+306950,"A-359, Varun Marg, Market, near Gol Gumbad",Unknown City,Delhi,IN,28.57419,77.231086,2.0,60.0,DC_FAST_(50-149kW),True
+306937,IOCL Citi Fuels,New Delhi,Delhi,IN,28.622301,77.095451,1.0,25.0,AC_HIGH_(22-49kW),False
+306878,Galleria Charging Station,Gurugram,Haryana,IN,28.467709,77.081758,2.0,120.0,DC_FAST_(50-149kW),True
+306877,JMD Pacific Square Charging Station,Gurugram,Haryana,IN,28.463933,77.048746,1.0,120.0,DC_FAST_(50-149kW),True
+306876,Bikanervala Sec-29 Charging Station,Gurugram,Haryana,IN,28.468828,77.063884,2.0,120.0,DC_FAST_(50-149kW),True
+306875,Crowne Plaza Gurgaon,Gurgaon,Haryana,IN,28.467984,77.059768,1.0,7.0,AC_L1_(<7.5kW),False
+306874,Statiq Charging Station,Gurugram,Haryana,IN,28.497655,77.093116,1.0,60.0,DC_FAST_(50-149kW),True
+306873,Gulf Adiba,Gurugram,Haryana,IN,28.507955,77.085852,1.0,30.0,AC_HIGH_(22-49kW),False
+306804,JW Marriott - Aerocity,Delhi,Delhi,IN,28.55314,77.12122,2.0,30.0,AC_HIGH_(22-49kW),False
+306803,Aloft,Delhi,Delhi,IN,28.552368,77.12382,2.0,30.0,AC_HIGH_(22-49kW),False
+306802,Radisson Blu Plaza Delhi Airport,New Delhi,Delhi,IN,28.543767,77.119596,2.0,22.0,AC_HIGH_(22-49kW),False
+306801,Hauz Khas Metro Station Parking Area,Delhi,Delhi,IN,28.544906,77.206917,2.0,30.0,AC_HIGH_(22-49kW),False
+306798,Savoy Suites Noida,Noida,Uttar Pradesh,IN,28.580172,77.315462,2.0,22.0,AC_HIGH_(22-49kW),False
+306797,TERRA CHARGE BSES,Delhi,Delhi,IN,28.625197,77.305497,1.0,,UNKNOWN,False
+306796,Terra Charge,Delhi,Delhi,IN,28.629619,77.312113,1.0,,UNKNOWN,False
+306793,Wave One,Noida,Uttar Pradesh,IN,28.569779,77.323288,5.0,,UNKNOWN,False
+306792,DLF Mall Of India,Noida,Uttar Pradesh,IN,28.567208,77.321534,2.0,60.0,DC_FAST_(50-149kW),True
+306791,Windsor Grand DC Charger,Noida,Uttar Pradesh,IN,28.542195,77.340714,2.0,120.0,DC_FAST_(50-149kW),True
+306790,Windsor IT Park,Noida,Uttar Pradesh,IN,28.544712,77.327193,3.0,60.0,DC_FAST_(50-149kW),True
+306770,Advant IT Park,Noida,Uttar Pradesh,IN,28.500911,77.409925,1.0,60.0,DC_FAST_(50-149kW),True
+306769,Omaxe Connaught Place Mall,Greater Noida,Uttar Pradesh,IN,28.488784,77.513965,1.0,7.0,AC_L1_(<7.5kW),False
+306768,Omaxe India Trade Centre,Noida,Uttar Pradesh,IN,28.478099,77.521475,1.0,60.0,DC_FAST_(50-149kW),True
+306767,Near Snow White,Delhi,Delhi,IN,28.633897,77.220776,1.0,15.0,AC_L2_(7.5-21kW),False
+303772,technoPolis,Kolkata,West Bengal,IN,22.579671,88.44329,1.0,30.0,AC_HIGH_(22-49kW),False
+303178,Kartavya Path,Unknown City,Delhi,IN,28.614253,77.203429,1.0,,UNKNOWN,False
+302744,Kot Safil road,Surat,Gujarat,IN,21.190833,72.828744,1.0,2.5,AC_L1_(<7.5kW),False
+301966,Harsha the Fernn,Shivamogga,Karnataka,IN,13.948551,75.531666,1.0,60.0,DC_FAST_(50-149kW),True
+301965,Shanthigrama Toll plaza,Shanthigrama,Karnataka,IN,12.982124,76.229339,1.0,40.0,AC_HIGH_(22-49kW),False
+301964,HPCL Shoolagiri,Krishnagiri,Tamil Nadu,IN,12.666701,78.002805,1.0,30.0,AC_HIGH_(22-49kW),False
+301963,Quality Inn VIHA,Kumbakonam,Tamil Nadu,IN,10.960106,79.392613,1.0,40.0,AC_HIGH_(22-49kW),False
+301962,Marshal E Tech Station,Kanyakumari,Tamil Nadu,IN,8.115411,77.532217,1.0,49.0,AC_HIGH_(22-49kW),False
+301650,Kallukurichi Toll Plaza,Viluppuram,Tamil Nadu,IN,11.736197,79.009333,1.0,30.0,AC_HIGH_(22-49kW),False
+301649,Mettupatty Toll Plaza,selam,Tamil Nadu,IN,11.661732,78.331195,1.0,31.0,AC_HIGH_(22-49kW),False
+301648,NS Charging Station,sirkali,Tamil Nadu,IN,11.221358,79.737695,1.0,30.0,AC_HIGH_(22-49kW),False
+301647,Prashanth Charging Station,Chidambaram,Tamil Nadu,IN,11.40803,79.673903,1.0,33.0,AC_HIGH_(22-49kW),False
+301646,Ocean Spray Resort,Villupuram,Tamil Nadu,IN,12.065875,79.880271,1.0,30.0,AC_HIGH_(22-49kW),False
+301645,VASAN Charging Station,Unknown City,Tamil Nadu,IN,10.652189,78.742142,1.0,30.0,AC_HIGH_(22-49kW),False
+301644,Charles Mahal,Tiruchirappalli,Tamil Nadu,IN,10.80578,78.73219,1.0,30.0,AC_HIGH_(22-49kW),False
+301643,DYNASTY AK Plaza,Virudhunagar,Tamil Nadu,IN,9.468267,77.566135,1.0,30.0,AC_HIGH_(22-49kW),False
+301550,Haribhavanam KMCH,Coimbatore,Tamil Nadu,IN,11.040221,77.040833,2.0,30.0,AC_HIGH_(22-49kW),False
+301547,Siva Selvi Charging Station,Pollachi,Tamil Nadu,IN,10.727093,76.929892,1.0,49.0,AC_HIGH_(22-49kW),False
+301546,HR Legacy,yercaud,Tamil Nadu,IN,11.774701,78.226979,1.0,49.0,AC_HIGH_(22-49kW),False
+301545,Dr. MGR University,"Maduravoyal, chennai",Tamil Nadu,IN,13.069597,80.177961,1.0,30.0,AC_HIGH_(22-49kW),False
+301544,Hotel Benzz Park,Vellore,Tamil Nadu,IN,12.929099,79.133652,1.0,30.0,AC_HIGH_(22-49kW),False
+301543,Alps Residency - A Bergamont Group of Hotel,Krishnagiri,Tamil Nadu,IN,12.54195,78.20175,1.0,66.0,DC_FAST_(50-149kW),True
+301542,Ero G Electric Charging Station,Erode,Tamil Nadu,IN,9.357268,11.301994,1.0,44.0,AC_HIGH_(22-49kW),False
+301541,KSN Charging Station,Ramanathapuram,Tamil Nadu,IN,9.357268,78.873609,1.0,35.0,AC_HIGH_(22-49kW),False
+301540,Hotel VPS Grand - Palani,Palani,Tamil Nadu,IN,10.443031,77.516171,1.0,49.0,AC_HIGH_(22-49kW),False
+301539,Hotel Temple City Lake Inn,Valaichcherippatti,Tamil Nadu,IN,9.987081,78.241544,1.0,37.0,AC_HIGH_(22-49kW),False
+301365,Ero G Electric Charging Station,perundurai,Tamil Nadu,IN,11.230771,78.573009,1.0,44.0,AC_HIGH_(22-49kW),False
+301229,Sree Annapoorna Restaurant,Ambur - Vellore,Tamil Nadu,IN,12.853014,78.817035,10.0,120.0,DC_FAST_(50-149kW),True
+301228,Thoppur Toll Plaza,Thoppur,Tamil Nadu,IN,12.007026,78.080843,2.0,82.0,DC_FAST_(50-149kW),True
+301227,Vaniyambadi Toll Plaza - Relux Charaging station,Vaniyambadi,Tamil Nadu,IN,12.648754,78.583329,1.0,40.0,AC_HIGH_(22-49kW),False
+301226,Hotel Himalayaa,Thiruvanamalai,Tamil Nadu,IN,12.236394,79.089601,1.0,40.0,AC_HIGH_(22-49kW),False
+301155,Hotel Aishwarya Bhavan,Tindivanam - Villupuram,Tamil Nadu,IN,12.240345,79.662282,1.0,110.0,DC_FAST_(50-149kW),True
+301154,MM Legacy,Kanchipuram,Tamil Nadu,IN,12.903605,80.167116,1.0,60.0,DC_FAST_(50-149kW),True
+301153,EVP Cinemas - Relux Charging Station,Chembarambakkam,Tamil Nadu,IN,13.036017,80.046517,1.0,30.0,AC_HIGH_(22-49kW),False
+300747,Hotel Aaryas Garden - Relux Charging Station,Tindivanam,Tamil Nadu,IN,12.24066,79.663151,1.0,49.0,AC_HIGH_(22-49kW),False
+300746,Hotel Aaryas Garden - Relux Electric,kandigai,Tamil Nadu,IN,12.385302,79.796005,1.0,49.0,AC_HIGH_(22-49kW),False
+300745,Cosmopolitan Club - Relux Electric,Chennai,Tamil Nadu,IN,13.100809,80.190598,1.0,30.0,AC_HIGH_(22-49kW),False
+300744,Saravana Stores - Padi - Relux Electric,Chennai,Tamil Nadu,IN,13.100809,80.190598,1.0,60.0,DC_FAST_(50-149kW),True
+298738,Balasaheb Thackeray Flyover,Unknown City,Maharashtra,IN,19.139951,72.851974,1.0,,UNKNOWN,False
+297821,Joance Regency,Thodupuzha,Kerala,IN,9.894288,76.715871,1.0,24.0,AC_HIGH_(22-49kW),False
+297660,"#1043, 11th cross",mysore,Karnataka,IN,12.335349,76.620128,1.0,11.0,AC_L2_(7.5-21kW),False
+297630,Ganesh Hotel,Tirumalakoppa,Karnataka,IN,15.16839,75.14055,1.0,50.0,DC_FAST_(50-149kW),True
+297629,Jio BP Kamadod,Kamadod,Karnataka,IN,14.57297,75.69027,1.0,60.0,DC_FAST_(50-149kW),True
+297628,Zeon 24KW Kyathasandra,Kyathasandra,Karnataka,IN,10.081199,77.630117,1.0,24.0,AC_HIGH_(22-49kW),False
+297627,Relux 25KW Chidambaram,Chidambaram,Tamil Nadu,IN,11.485037,78.019711,1.0,30.0,AC_HIGH_(22-49kW),False
+297626,chargemod 30kw Amoha hotel,Tiruvannamalai,Tamil Nadu,IN,11.485037,78.019711,1.0,30.0,AC_HIGH_(22-49kW),False
+297625,Relux 30KW Hotel Himalaya,Annamalai R.F,Tamil Nadu,IN,12.24692,78.075769,1.0,30.0,AC_HIGH_(22-49kW),False
+297624,Statiq 60kW Tirunelveli,Tirunelveli,Tamil Nadu,IN,8.66847,77.71834,1.0,60.0,DC_FAST_(50-149kW),True
+297622,Regency Tirunelveli By GRT Hotels,Tirunelveli,Tamil Nadu,IN,8.72921,77.72092,1.0,50.0,DC_FAST_(50-149kW),True
+297621,Kannada Parisath Road,Mysuru,Karnataka,IN,12.336276,76.618747,1.0,100.0,DC_FAST_(50-149kW),True
+279447,Knowledge park,Greater Noida,Uttar Pradesh,IN,28.462238,77.491286,1.0,2.5,AC_L1_(<7.5kW),False
+273116,Urs Kar,Gonikoppa,Karnataka,IN,12.17768,75.90516,1.0,24.0,AC_HIGH_(22-49kW),False
+267109,Punkunnam-Guruvayoor Road,Thrissur,Kerala,IN,10.537654,76.197149,3.0,2.5,AC_L1_(<7.5kW),False
+266916,Viyyur KSEB,Thrissur,Kerala,IN,10.559346,76.217358,1.0,30.0,AC_HIGH_(22-49kW),False
+266276,KSEB Charging Station,Kochi,Kerala,IN,10.005395,76.304722,2.0,50.0,DC_FAST_(50-149kW),True
+259197,GoElectrify-EV Charger,Ahmedabad,Gujarat,IN,23.023923,72.45893,1.0,3.6,AC_L1_(<7.5kW),False
+258754,ChargePod Charging Station,Gandhinagar,Gujarat,IN,23.175841,72.626749,1.0,,UNKNOWN,False
+258753,Fortum Charge & Drive Charging Station,Ahmedabad,Gujarat,IN,22.996682,72.358151,1.0,50.0,DC_FAST_(50-149kW),True
+258572,Ather Grid Charging Station,Gandhinagar,Gujarat,IN,23.231491,72.667364,1.0,2.5,AC_L1_(<7.5kW),False
+258336,Taj Hotel,Ahmedabad,Gujarat,IN,23.075554,72.56854,2.0,30.0,AC_HIGH_(22-49kW),False
+258302,MobiLane Charging Station,Gandhinagar,Gujarat,IN,23.166428,72.683984,1.0,80.0,DC_FAST_(50-149kW),True
+258294,Sargasan Cross Rd,Gandhinagar,Gujarat,IN,23.178343,72.612246,1.0,30.0,AC_HIGH_(22-49kW),False
+257048,Agora Mall Charging Station,Gandhinagar,Gujarat,IN,23.067546,72.664809,1.0,,UNKNOWN,False
+257047,Capital EV Charging Station (Kalupur),Ahmedabad,Gujarat,IN,23.067646,72.664928,1.0,25.0,AC_HIGH_(22-49kW),False
+238134,Technopark EVCS,Thiruvananthapuram,Kerala,IN,8.559479,76.878079,5.0,30.0,AC_HIGH_(22-49kW),False
+201254,Cinemax,Kalyan,Maharashtra,IN,19.243652,73.134756,1.0,3.0,AC_L1_(<7.5kW),False
+195401,Kalyan Grand Business Hotel,Vandalur,Tamil Nadu,IN,12.8738,80.078494,1.0,24.0,AC_HIGH_(22-49kW),False
+195400,Muscat bakery & Restaurants,Irungattukottai,Tamil Nadu,IN,13.008011,79.99673,1.0,50.0,DC_FAST_(50-149kW),True
+195399,Holiday Inn Chennai OMR,Chennai,Tamil Nadu,IN,12.980074,80.253153,1.0,25.0,AC_HIGH_(22-49kW),False
+195398,Grand Chennai by GRT Hotels,Chennai,Tamil Nadu,IN,13.039884,80.245076,1.0,22.0,AC_HIGH_(22-49kW),False
+195397,Spencer plaza,Chennai,Tamil Nadu,IN,13.086441,80.246118,1.0,25.0,AC_HIGH_(22-49kW),False
+195339,Chandni Chowk,Delhi,Delhi,IN,28.656025,77.231198,1.0,3.0,AC_L1_(<7.5kW),False
+189046,Sardar Patel Ring Road,Ahmedabad,Gujarat,IN,23.018114,72.671177,1.0,,UNKNOWN,False
+189037,Shawadi Road,Ahmedabad,Gujarat,IN,22.958987,72.573438,1.0,50.0,DC_FAST_(50-149kW),True
+188200,Hosa Road,Chikkanayakanahalli,Karnataka,IN,12.911522,77.676298,1.0,3.3,AC_L1_(<7.5kW),False
+173082,Tata Fast Charger,Bangalore,Karnataka,IN,12.952439,77.639732,2.0,22.0,AC_HIGH_(22-49kW),False
+172465,Bharay,Mukundgarh Mandi,Rajasthan,IN,27.938346,75.231438,1.0,3.0,AC_L1_(<7.5kW),False
+171101,Saravana Bhavan,Vaigundam,Tamil Nadu,IN,11.519422,77.934771,2.0,50.0,DC_FAST_(50-149kW),True
+170932,IITM Research Park,Chennai City Corporation Limits,Tamil Nadu,IN,12.9908,80.2424,1.0,37.0,AC_HIGH_(22-49kW),False
+167208,Assam Electric Point,Guwahati,Assam,IN,26.161971,91.766784,1.0,3.0,AC_L1_(<7.5kW),False
+149812,Electrify Bihar EV Charging Station,Darbhanga,Bihar,IN,26.156965,85.899512,4.0,2.3,AC_L1_(<7.5kW),False
+149534,Fortum Mahindra,Hyderabad,Telangana,IN,17.44366,78.46395,1.0,,UNKNOWN,False
+149533,Amplify Mobility,Hyderabad,Telangana,IN,17.424924,78.421966,1.0,,UNKNOWN,False
+149527,Fortum Mahindra,Hyderabad,Telangana,IN,17.36334,78.4337,1.0,,UNKNOWN,False
+149524,Fortum Mahindra,Hyderabad,Telangana,IN,17.50128,78.37811,1.0,,UNKNOWN,False
+146678,Jawahar Marg,Indore,Madhya Pradesh,IN,22.716554,75.854964,1.0,3.0,AC_L1_(<7.5kW),False
+129323,Kailash Bhavan,Clappana,Kerala,IN,9.088188,76.485888,3.0,3.3,AC_L1_(<7.5kW),False
+107668,AtherGrid Go Native Cafe,Bangalore,Karnataka,IN,12.922464,77.584688,1.0,2.0,AC_L1_(<7.5kW),False
+103746,BESCOM Head Office,Bengaluru,Karnataka,IN,12.975531,77.588336,1.0,3.6,AC_L1_(<7.5kW),False
+103616,Ather Space,Bengaluru,Karnataka,IN,12.975689,77.64123,4.0,3.0,AC_L1_(<7.5kW),False
+103615,Ather Grid Point - Herbs and Spices,Bengaluru,Karnataka,IN,12.967925,77.749776,1.0,3.0,AC_L1_(<7.5kW),False
+103614,Ather Grid Point - 6000 Miles to Isle of Man,Bengaluru,Karnataka,IN,12.975683,77.598233,1.0,3.0,AC_L1_(<7.5kW),False
+103613,Ather Grid Point - Sunny Side Bistro,Bengaluru,Karnataka,IN,13.001817,77.623546,1.0,3.0,AC_L1_(<7.5kW),False
+103612,Ather Grid Point - Patel's Inn,Bengaluru,Karnataka,IN,13.021246,77.598028,1.0,3.0,AC_L1_(<7.5kW),False
+103611,Ather Grid Point - Chapter One,Bengaluru,Karnataka,IN,13.032302,77.569713,1.0,3.0,AC_L1_(<7.5kW),False
+103610,Ather Grid Point - Royal Airawat Residency,Bengaluru,Karnataka,IN,12.922287,77.49549,1.0,3.0,AC_L1_(<7.5kW),False
+103609,Ather Grid Point - Caf Eleven,Bengaluru,Karnataka,IN,12.923334,77.554875,1.0,3.0,AC_L1_(<7.5kW),False
+103607,Ather Grid Point - Fab Cafe,Bengaluru,Karnataka,IN,12.933942,77.517452,1.0,3.0,AC_L1_(<7.5kW),False
+103606,Ather Grid Point - Moto Store & Cafe,Bangalore,Karnataka,IN,12.987554,77.620871,1.0,3.0,AC_L1_(<7.5kW),False
+103604,"International Tech Park, Bangalore",Bangalore,Karnataka,IN,12.985421,77.738513,2.0,3.0,AC_L1_(<7.5kW),False
+103603,Ather Grid Point - Ascendas Park square mall,Bangalore,Karnataka,IN,12.987219,77.736474,2.0,3.0,AC_L1_(<7.5kW),False
+96047,Tellus Power,Hyderabad,Telangana,IN,17.413362,78.426597,2.0,7.2,AC_L1_(<7.5kW),False
+92771,Ola Charging Point,Nagpur,Maharashtra,IN,21.088568,79.05439,4.0,,UNKNOWN,False
+"Source: OpenChargeMap API, via github.com/tarekmasryo/global-ev-infra-dataset (CC BY-SA 4.0). Filtered to country_code='IN'. State labels cleaned from raw OCM free-text entries.",,,,,,,,,,
